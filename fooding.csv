@@ -1,0 +1,973 @@
+name,type,CP,adresse,latitude,longitude,telephone,prix,specialite1,specialite2,specialite3
+Echizen Soba Togo,Restaurant,75001,"33, rue Saint-Roch",48.8659805,2.332610299999942,+33 1 73 71 69 23,De 16 à 35 €,Asiatique,Japonais,
+Salatim,Restaurant,75002,"15, rue des Jeûneurs",48.8690915,2.3459585000000516,+33 1 42 36 30 03,De 16 à 35 €,Lèche-doigts,,
+Au Bon Pho,Restaurant,75003,"22, rue au Maire",48.8647367,2.356092600000011,+33 1 42 72 88 32,Moins de 15 €,Asiatique,Laotien,Thaïlandais
+Foodi Jia-Ba-Buay ,Restaurant,75002,"2, rue du Nil",48.8679066,2.3482688999999937,+33 1 45 08 48 28,De 16 à 35 €,Asiatique,Taïwanais,
+Sagan,Restaurant,75006,"8, rue Casimir-Delavigne",48.8504247,2.339177800000016,+33 6 69 37 82 19 ,De 36 à 50 €,Japonais,,
+The Cod House,Restaurant,75006,"1, rue de Condé",48.8515877,2.3385001999999986,+33 1 42 49 35 59,De 36 à 50 €,Asiatique,Japonais,
+Les Enfants Rouges,Restaurant,75003,"9, rue de Beauce",48.8628812,2.3611051999999972,+33 1 48 87 80 61,De 36 à 50 €,Néobistrot,Bar à vins / Cave à manger,
+Chez Taeko,Restaurant,75003,39 Rue de Bretagne,48.862755,2.3620003999999426,+33 1 48 04 34 59,Moins de 15 €,Japonais,,
+L’Avant-Comptoir de la Mer,Restaurant,75006,"3, carrefour de l’Odéon",48.8520358,2.3388124000000516,+33 1 42 38 47 55,De 16 à 35 €,Sud-Ouest,Terroir,Poissons et fruits de mer
+Honor Café,Restaurant,75008,"54, rue du Faubourg-Saint-Honoré",48.8695885,2.3196957999999768,+33 7 82 52 93 63,Moins de 15 €,Café / Coffee Shop,Salon de thé / Pâtisserie,Snack / Tartes / Salades / Soupes / Bols
+L'Innocence,Restaurant,75009,"28, rue de La Tour d'Auvergne",48.8793387,2.3433571000000484,+33 1 45 23 99 13,De 36 à 50 €,Cuisine d'auteur,Néobistrot,
+Mamiche,Restaurant,75009,"45, rue Condorcet",48.8800657,2.3435071000000107,+33 1 53 21 03 68  ,Moins de 15 €,Casse-croûte,Sandwichs / Bagels,Lèche-doigts
+Mamou,Restaurant,75009,"42, rue Taitbout",48.8738357,2.3354146000000355,+33 1 44 63 09 25,De 36 à 50 €,Bistrot,Néobistrot,
+Le Mordant,Restaurant,75010,"61, rue de Chabrol",48.87706679999999,2.3510547,+33 9 83 40 60 04,De 36 à 50 €,Bistrot,Cuisine du marché,Bar à vins / Cave à manger
+Tonton Yün ,Restaurant,75010,"96, rue d’Hauteville",48.8773422,2.351675099999966,+ 33 9 81 99 84 81,De 36 à 50 €,Asiatique,Chinois,Cuisine du marché
+PNY Fbg Saint-Denis,Restaurant,75010,"50, rue du Faubourg Saint-Denis",48.8719023,2.353993800000012,+33 1 47 70 15 24,Moins de 15 €,Burgers,Lèche-doigts,
+Miznon Canal,Restaurant,75010,37 Quai de Valmy,48.8691925,2.366400999999996,+33 1 48 03 47 22,Moins de 15 €,Lèche-doigts,Israélien,
+Chez Justine,Restaurant,75011,"96, rue Oberkampf",48.8656838,2.377854999999954,+ 33 1 43 57 44 03,De 16 à 35 €,Brasserie,Pizzas,
+L'Épicerie du Verre Volé,Restaurant,75011,"54 bis, rue de la Folie-Méricourt",48.8642882,2.371696400000019,+33 1 48 05 36 55,Moins de 15 €,Sandwichs / Bagels,Lèche-doigts,
+Boulangerie Chambelland ,Restaurant,75011,"14, rue Ternaux",48.8643755,2.3732250000000477,+33 1 43 55 07 30,Moins de 15 €,Salon de thé / Pâtisserie,Sandwichs / Bagels,
+Café du Coin,Restaurant,75011,"9, rue Camille Desmoulins",48.8590191,2.3809707000000344,+ 33 1 48 04 82 46,De 16 à 35 €,Bistrot,Bar à vins / Cave à manger,
+La Felicità,Restaurant,75013,"55, boulevard Vincent-Auriol",48.8336874,2.371536600000013,Pas de téléphone,De 16 à 35 €,Burgers,Italien,Pizzas
+Les Saveurs du Sichuan,Restaurant,75014,"34, rue Friant",48.8248167,2.3235340999999607,+33 1 71 60 10 78,De 16 à 35 €,Asiatique,Chinois,
+Thieng Heng,Restaurant,75013,"50, avenue d’Ivry  ",48.8237442,2.365282200000024,+33 1 45 82 92 95,Moins de 15 €,Asiatique,Vietnamien,Sandwichs / Bagels
+Le Cadoret,Restaurant,75019,"1, rue Pradier",48.8747784,2.38106700000003,+ 33 1 53 21 92 13,De 16 à 35 €,Bistrot,Café / Coffee Shop,Bar à vins / Cave à manger
+Kura,Restaurant,75016,"56, rue de Boulainvilliers",48.8573238,2.275216099999966,+33 1 45 20 18 32 ,De 36 à 50 €,Asiatique,Japonais,Sushis
+Koko,Restaurant,75019,"14, quai de la Loire",48.8838145,2.3718472000000475,+ 33 1 40 34 15 95,De 16 à 35 €,Asiatique,Japonais,Sushis
+L’Entredgeu,Restaurant,75017,"83, rue Laugier",48.8847305,2.2914016,+33 1 40 54 97 24,De 36 à 50 €,Bistrot,Cuisine du marché,
+Boutique Yam'Tcha,Restaurant,75001,"4, rue Sauval",48.8617019,2.3424474999999347,+33 1 40 26 06 06,Moins de 15 €,Chinois,Lèche-doigts,
+Kokoro,Restaurant,75005,"36, rue des Boulangers",48.8462505,2.3524797000000035,+33 1 44 07 13 29,De 36 à 50 €,Cuisine du marché,Néobistrot,
+Chez la Vieille,Restaurant,75001,"1, rue Bailleul",48.8609056,2.3423270000000684,+33 1 42 60 15 78,De 16 à 35 €,Bistrot,,
+Luz Verde,Restaurant,75009,"24, rue Henry-Monnier",48.8803917,2.3376164000000017,+33 1 70 23 69 60,De 16 à 35 €,Mexicain,Lèche-doigts,
+Beige,Restaurant,75005,"31, rue de la Parcheminerie",48.8517973,2.3444743999999673,+33 1 46 33 75 10,De 16 à 35 €,Japonais,Tapas,
+Kanadé,Restaurant,75001,"8, rue de Ventadour",48.8670442,2.3345176000000265,+33 1 42 60 63 65,De 16 à 35 €,Japonais,,
+Han Lim,Restaurant,75005," 6, rue Blainville",48.8445362,2.3486708000000363,+33 1 43 54 62 74,De 16 à 35 €,Asiatique,Coréen,
+Sanukiya ,Restaurant,75001,"9, rue d'Argenteuil",48.8649003,2.333713200000034,+33 1 42 60 52 61,De 16 à 35 €,Japonais,,
+Mamagoto,Restaurant,75010,"5, rue des Petits-Hôtels",48.8772256,2.3545000999999957,+ 33 1 44 79 03 98,De 36 à 50 €,Cuisine du marché,Néobistrot,
+Au Passage,Restaurant,75011,"1 bis, passage Saint-Sébastien ",48.8615804,2.3686500000000024,+ 33 1 43 55 07 52,De 16 à 35 €,Néobistrot,Bar à vins / Cave à manger,
+Da Vito,Restaurant,75011,"5, rue Sedaine",48.8557066,2.371193700000049,+33 9 50 73 12 99,Moins de 15 €,Pizzas,,
+Café Chilango,Restaurant,75011,"82, rue de la Folie-Méricourt",48.8663807,2.370187499999929,+33 1 47 00 78 95,Moins de 15 €,Mexicain,Lèche-doigts,
+Ravioli Nord-Est ,Restaurant,75010,"11, rue Civiale",48.8726504,2.37523920000001,+33 1 75 50 88 03,Moins de 15 €,Asiatique,Chinois,
+Le Petit Cambodge Beaurepaire,Restaurant,75010,"4, rue Beaurepaire",48.8691328,2.363433799999939,+33 1 44 91 92 04,Moins de 15 €,Asiatique,Cambodgien,
+Mary Celeste,Restaurant,75003,"1, rue Commines",48.861688,2.364839599999982,+33 1 42 77 98 37,De 16 à 35 €,Bar à vins / Cave à manger,,
+Le Petit Varenne,Restaurant,75007,57 Rue de Bellechasse,48.85507579999999,2.320126899999991,+ 33 1 42 73 60 72,De 36 à 50 €,Néobistrot,,
+Septime La Cave,Restaurant,75011,"3, rue Basfroi",48.85374660000001,2.3801829000000225,+33 1 43 67 14 87,De 16 à 35 €,Planches / Assiettes froides,Bar à vins / Cave à manger,
+La Cantine du Troquet Cherche-Midi,Restaurant,75006,"79, rue du Cherche-Midi",48.847715,2.3233374999999796,+33 1 43 27 70 06,De 36 à 50 €,Bistrot,Cuisine du marché,Basque
+Ten Belles Bread,Restaurant,75011,"17-19, rue Breguet",48.8579983,2.373243900000034,+33 9 67 86 08 19,Moins de 15 €,Café / Coffee Shop,Salon de thé / Pâtisserie,Lèche-doigts
+Elmer l'Epicerie ,Restaurant,75003,"19, rue Notre-Dame-de-Nazareth",48.8672042,2.359798400000045,+33 1 40 09 80 47,Moins de 15 €,Planches / Assiettes froides,Bar à vins / Cave à manger,
+Caractère de Cochon,Restaurant,75003,"42, rue Charlot",48.86270529999999,2.3625306999999793,+33 1 42 74 79 45,Moins de 15 €,Sandwichs / Bagels,Lèche-doigts,
+Marrow,Restaurant,75010,"128, rue du Faubourg-Saint-Martin",48.8743883,2.3589067999999997,+33 9 81 34 57 00,De 16 à 35 €,Néobistrot,Bar à vins / Cave à manger,
+Les Arlots,Restaurant,75010,"136, rue du Faubourg-Poissonnière",48.8806409,2.350058699999977,+ 33 1 42 82 92 01,De 36 à 50 €,Bistrot,Bar à vins / Cave à manger,
+Le Siffleur de ballons,Restaurant,75012,"34, rue de Cîteaux",48.84953429999999,2.3812778999999864,+33 1 58 51 14 04,De 16 à 35 €,Planches / Assiettes froides,Bar à vins / Cave à manger,
+Amarante,Restaurant,75012,"4, rue Biscornet",48.8496201,2.370114000000058,+33 7 67 33 21 25,De 36 à 50 €,Bistrot,,
+Gravity Bar,Restaurant,75010,"44, rue des Vinaigriers",48.873629,2.3611462000000074,,De 16 à 35 €,Bar à vins / Cave à manger,,
+Chez Mamane,Restaurant,75013,"27, rue des Cinq-Diamants",48.8285958,2.350679600000035,+33 1 45 89 58 87,De 16 à 35 €,Maghreb,Algérien,
+Tempero,Restaurant,75013,"5, rue Clisson",48.8330474,2.3693799999999783,+33 9 54 17 48 88,De 16 à 35 €,Cuisine du marché,Néobistrot,Terroir
+Soul Kitchen,Restaurant,75018,"33, rue Lamarck",48.8891908,2.3420937999999296,+33 1 71 37 99 95,Moins de 15 €,Biocool,Café / Coffee Shop,Salon de thé / Pâtisserie
+Le Bistrot d'Antoine,Restaurant,06300,"27, rue de la Préfecture",43.6965046,7.276317100000028,+33 4 93 85 29 57,De 36 à 50 €,Bistrot,Cuisine du marché,
+Marcel,Restaurant,75018,"1, villa Léandre",48.888394,2.335305100000028,+33 1 46 06 04 04,De 16 à 35 €,Café / Coffee Shop,Américain,
+La Cave du Fromager,Restaurant,06300,"29, rue Benoît-Bunico",43.6965545,7.276745699999992,+33 4 93 13 07 83,De 36 à 50 €,Bistrot,Terroir,Bar à vins / Cave à manger
+Ourea,Restaurant,13006,"72, rue de la Paix Marcel Paul",43.2905868,5.373371399999996,+33 4 91 73 21 53,De 36 à 50 €,Néobistrot,,
+Le Débouché,Restaurant,13001,"3, boulevard National",43.3016229,5.387404300000071,+33 4 91 50 96 25,De 16 à 35 €,Bistrot,,
+Le Flacon,Restaurant,33000,"43, rue de Cheverus",44.8380089,-0.575749299999984,+33 9 81 86 43 43,De 16 à 35 €,Bar à vins / Cave à manger,,
+Hedone,Restaurant,31400,"2, impasse Saint-Félix",43.5963477,1.4617005000000063,+33 5 82 74 60 55,De 36 à 50 €,Biocool,Cuisine d'auteur,Cuisine du marché
+La Petite Table,Restaurant,40130,"7, quai de la Pêcherie",43.6518896,-1.4335343000000194,+33 5 58 72 36 72,De 16 à 35 €,Cuisine d'auteur,,
+Euskalduna,Restaurant,64130,"4, rue Pasteur",43.2196394,-0.889754000000039,+33 5 59 28 23 35,De 16 à 35 €,Néobistrot,,
+Les Pipelettes,Restaurant,64000,"3, rue Valéry-Meunier",43.2960641,-0.3664797000000135,+33 5 59 98 88 06  ,De 16 à 35 €,Cuisine du marché,Néobistrot,Terroir
+Breizh Café Odéon,Restaurant,75006,"1, rue de l'Odéon",48.85165079999999,2.338800499999934,+ 33 1 42 49 34 73,De 16 à 35 €,Crêperie,,
+Monsieur P,Restaurant,69001,"14, rue Royale",45.77121,4.837195000000065,+33 4 82 31 87 63,De 36 à 50 €,Cuisine d'auteur,Néobistrot,
+La Famille,Restaurant,69004,"18, rue Duviard",45.7754986,4.828228200000012,+33 4 72 98 83 90,De 16 à 35 €,Cuisine du marché,,
+Lavomatique ,Restaurant,06300,"11, rue du Pont Vieux",43.697563,7.27619100000004,+33 4 93 55 54 18,De 16 à 35 €,Cuisine du marché,Tapas,
+SaQuaNa,Restaurant,14600,"22, pl. Hamelin",49.4215556,0.23276179999993474,+33 2 31 89 40 80,Plus de 51 €,Cuisine d'auteur,,
+Café des Epices,Restaurant,13002,4 Rue du Lacydon,43.2969737,5.3691590999999335,+33 4 91 91 22 69,De 36 à 50 €,Cuisine d'auteur,Néobistrot,
+Le Comptoir Saoufé ,Restaurant,17000,"12, rue du Port",46.1585675,-1.151673399999936,+33 5 46 29 58 69,De 16 à 35 €,Terroir,Poissons et fruits de mer,Planches / Assiettes froides
+Carabasse,Restaurant,07460,Pléoux,44.35231960000001,4.223925699999995,,De 16 à 35 €,Néobistrot,Terroir,
+Douceur Piquante ,Restaurant,13002,17 Rue de l'Évêché,43.2982613,5.365831200000002,+33 6 35 21 73 69,De 16 à 35 €,Africain,Cuisine du marché,
+Le Garage,Restaurant,15400,"2, route Mauriac",45.2518499,2.5390803000000233,+33 4 71 78 60 79,De 16 à 35 €,Bistrot,Auvergnat,Terroir
+Nguyen-Hoang ,Restaurant,13002,"6, rue Méry",43.2982962,5.37115730000005,+33 4 91 90 71 92,Moins de 15 €,Asiatique,Vietnamien,
+Les Huîtres de Trousse-Chemise,Restaurant,17880,Route de la Levée-Verte,46.2328505,-1.4943514999999934,,Moins de 15 €,Guinguette,Poissons et fruits de mer,
+Les Caves Madeleine,Restaurant,21200,"8, rue du Faubourg-Madeleine",47.0213663,4.84092899999996,+33 3 80 22 93 30,De 36 à 50 €,Bistrot,Terroir,Bar à vins / Cave à manger
+Libertalia ,Restaurant,20253,1850 D81,42.6975187,9.361437199999955,,De 16 à 35 €,Biocool,Corse,Viandes / Grillades
+La Dilettante,Restaurant,21200,"11, rue du Faubourg-Bretonnière",47.0215311,4.832962299999963,+33 3 80 21 48 59,De 16 à 35 €,Terroir,Sandwichs / Bagels,Planches / Assiettes froides
+Hinoki,Restaurant,29200,"6, rue des Onze-Martyrs",48.3908232,-4.483765800000015,+33 2 98 43 23 68,Plus de 51 €,Asiatique,Japonais,Sushis
+La Famille ,Restaurant,30700,"9, pl. aux Herbes",44.0118655,4.41907029999993,+33 9 72 83 90 76 ,De 16 à 35 €,Bar à vins / Cave à manger,,
+Le 292,Restaurant,38000,"95, rue Saint-Laurent",45.1952794,5.729250200000024,+33 4 76 29 22 92,De 16 à 35 €,Cuisine du marché,Table d'hôte,
+Bird,Restaurant,91330,"38, rue Charles-de-Gaulle",48.7164794,2.4907881000000316,+33 1 79 93 28 81,De 16 à 35 €,Cuisine du marché,Néobistrot,
+L'Inattendu,Restaurant,64100,"23, rue des Cordeliers",43.4892742,-1.4732581000000664,+33 5 59 59 83 44,De 16 à 35 €,Bistrot,Cuisine d'auteur,Cuisine du marché
+Racines,Restaurant,75002,"8, passage des Panoramas",48.87125160000001,2.3418543000000227,+ 33 1 40 13 06 41,De 36 à 50 €,Bistrot,Italien,
+Mampuku,Restaurant,33000,"9, rue Ausone",44.8383098,-0.5686336999999639,+33 5 56 81 18 75,De 16 à 35 €,Asiatique,Cuisine d'auteur,
+Madame Pang,Restaurant,33000,"16, rue de la Devise",44.8398252,-0.5715597999999318,+33 5 56 38 47 13,De 16 à 35 €,Asiatique,Tapas,Nourritures mondaines
+Les P’tits Fayots ,Restaurant,31000,"8, rue de l’Esquile ",43.6063566,1.4418911999999864,+33 5 61 23 20 71,De 36 à 50 €,Cuisine d'auteur,Cuisine du marché,Néobistrot
+L'Épicurien,Restaurant,68000,"11, rue Wickram",48.0741417,7.360317799999962,+33 3 89 41 14 50,De 36 à 50 €,Bistrot,Bar à vins / Cave à manger,
+La Quille ,Restaurant,68100,"10, rue de la Moselle",47.7481441,7.339948800000002,+33 3 89 44 41 30,De 16 à 35 €,Planches / Assiettes froides,Bar à vins / Cave à manger,
+SEASONS FOOD TRUCK,Restaurant,33000,,44.8350088,-0.587268999999992,,Moins de 15 €,Biocool,Lèche-doigts,
+La Canfouine,Restaurant,33950,75 Rue Sainte-Catherine,44.7001012,-1.2292737999999872,,Moins de 15 €,Poissons et fruits de mer,,
+Kamouraska,Restaurant,74000,"6, passage de la Cathédrale",45.8994104,6.125707299999931,+ 33 9 50 78 82 96,De 16 à 35 €,Cuisine d'auteur,Bar à vins / Cave à manger,
+La Table Breizh Café,Restaurant,35260,"7, quai Admis-en-Chef-Thomas",48.6709446,-1.8518056000000342,+33 2 99 89 56 46,Plus de 51 €,Asiatique,Japonais,Cuisine d'auteur
+Bercail,Restaurant,35000,"33, rue Sainte Mélanie",48.1149202,-1.6756032000000687,+33 2 99 87 50 25,De 36 à 50 €,Cuisine d'auteur,Néobistrot,
+L’ARRIVAGE,Restaurant,34200,"15, rue André-Portes",43.4019628,3.6959309000000076,,De 36 à 50 €,Bistrot,Bar à vins / Cave à manger,
+Les Planeurs,Restaurant,31200,"56, bd des Minimes",43.6164076,1.4395237999999608,+33 9 86 51 56 95,De 16 à 35 €,Bistrot,Cuisine d'auteur,Cuisine du marché
+Le Saint-Bonheur,Restaurant,34190,"634, av. du Chemin-Neuf",43.8997894,3.7368132999999943, +33 4 67 65 73 44,De 16 à 35 €,Néobistrot,Bar à vins / Cave à manger,
+Le Saint Barth’,Restaurant,34340,Montpénèdre,43.382545,3.5565259999999626,+33 4 99 43 97 58 ,De 16 à 35 €,Poissons et fruits de mer,,
+L’Avant-comptoir des Neiges au M de Megève,Restaurant,74120,"15, route de Rochebrune",45.8548783,6.616669499999944,+33 4 50 21 41 09,De 16 à 35 €,Tapas,Terroir,Bar à vins / Cave à manger
+Refuge de Porcherey,Restaurant,74170,"1380, Chemin de Porcherey",45.8419816,6.706618800000001,+33 6 80 64 01 43,De 16 à 35 €,,,
+La Racine et la Moelle,Restaurant,46100,"6, rue du Consulat",44.609105,2.0347239000000172,+33 9 83 53 81 58   ,De 16 à 35 €,Cuisine du marché,Néobistrot,
+Aux Bons Crus,Restaurant,75011,"54, rue Godefroy-Cavaignac",48.8572177,2.3800160000000687,+33 1 45 67 21 13,De 16 à 35 €,Bistrot,Brasserie,
+Les Becs à Vin,Restaurant,45000,"8, place du Châtelet",47.8985451,1.907081299999959,+33 9 65 16 64 09,De 16 à 35 €,Bistrot,Cuisine du marché,Terroir
+Hirsinger,Restaurant,39600,"39, place de la Liberté",46.9033144,5.772620299999971,+33 3 84 66 06 97,Moins de 15 €,Salon de thé / Pâtisserie,,
+Autour d'un Cep,Restaurant,49100,"9, rue Baudrière",47.4722592,-0.5568057000000408,+33 2 41 42 61 00,De 36 à 50 €,Bistrot,Cuisine du marché,
+La Grangée,Restaurant,58110,Le Bourg,47.033817,3.6405190000000403,+33 3 86 76 11 56,De 16 à 35 €,Cuisine du marché,Néobistrot,
+La Tambouillette,Restaurant,47200,"15, rue de l’Hirondelle",44.4969609,0.1661269999999604,+33 5 53 93 41 17,Moins de 15 €,Cuisine du marché,Terroir,
+Le Vert Mont ,Restaurant,59299,"1318, rue du Mont-Noir",50.7929033,2.70336420000001,+33 3 28 49 41 26,De 36 à 50 €,Cuisine d'auteur,Terroir,
+Le Cabaret,Restaurant,66740,Mas des Trompettes Hautes,42.527849,2.853349200000025,+33 4 68 83 34 57,De 36 à 50 €,Cuisine du marché,Terroir,Table d'hôte
+Mamasan,Restaurant,69002,"46, rue Ferrandière",45.7620152,4.837425100000019,+33 4 78 37 44 84,De 16 à 35 €,Asiatique,Vietnamien,
+Burger Fermier des Enfants Rouges ,Restaurant,62520,"49, rue de Calais",50.52735029999999,1.5885983000000579,+33 3 21 05 27 21,Moins de 15 €,Burgers,Lèche-doigts,
+Chez Mattin,Restaurant,64500,"63, rue Evariste-Baignol",43.3826478,-1.6693595000000414,+33 5 59 47 19 52,De 36 à 50 €,Bistrot,Basque,Terroir
+L'Argot,Restaurant,69006,"132, rue Bugeaud ",45.766959,4.856062999999949,+33 4 78 24 57 88,De 16 à 35 €,Viandes / Grillades,,
+La Table / Sébastien Gravé,Restaurant,64100,"21, quai Amiral-Dubourdieu",43.49171219999999,-1.474546700000019,+33 5 59 46 14 94,De 36 à 50 €,Cuisine d'auteur,Cuisine du marché,
+La Marine,Restaurant,85330,"5, rue Marie-Lemonnier",47.0236999,-2.299921700000027,+33 2 51 39 23 09,Plus de 51 €,Cuisine d'auteur,,
+Au Fil du Temps ,Restaurant,84210,"51, pl. Louis-Giraud",43.9973325,5.058942800000068,+33 4 90 30 09 48,De 36 à 50 €,Cuisine du marché,Néobistrot,
+La Table Haute de La Mirande ,Restaurant,84000,"4, pl. de l’Amirande",43.94996800000001,4.807816099999968,+33 4 90 14 20 20 ,Plus de 51 €,Bistrot,Cuisine du marché,Table d'hôte
+Union,Restaurant,73210,Immeuble Le Signal,45.5344585,6.635117000000037,+33 4 79 55 51 07,De 36 à 50 €,Néobistrot,,
+Le Chat Bleu,Restaurant,76310,"6, rue du Roi-Albert",49.5027273,0.08565939999994043,+33 2 35 47 10 24,Moins de 15 €,Tapas,Salon de thé / Pâtisserie,Bar à vins / Cave à manger
+La Cour de Ferme de l'Auberge La Fenière,Restaurant,84160,Route de Lourmarin,43.74882900000001,5.3643030000000635,+33 4 90 68 11 79,De 36 à 50 €,Cuisine du marché,Méditerranéen,Terroir
+Le Chastellux ,Restaurant,89630,"16, route du Lac",47.3840416,3.899305799999979,+33 3 86 32 08 83,De 16 à 35 €,Cuisine du marché,Néobistrot,
+En mets fais ce qu’il te plaît,Restaurant,69007,"43, rue Chevreul",45.7487796,4.839740699999993,+33 4 78 72 46 58,De 36 à 50 €,Cuisine d'auteur,Cuisine du marché,
+L’Entre Deux,Restaurant,64200,"5, av. du Maréchal-Foch",43.4757751,-1.5572611000000052,+ 33 5 59 22 51 50,Plus de 51 €,Cuisine d'auteur,Cuisine du marché,Néobistrot
+Chéri Bibi,Restaurant,64200,"50, rue d’Espagne",43.4745482,-1.5638833000000432,+33 5 59 41 24 75,De 16 à 35 €,Bistrot,Terroir,Bar à vins / Cave à manger
+Les Bouteilles,Restaurant,44000,"11, rue de Bel-Air",47.2210925,-1.559213199999931,+33 2 40 08 27 65,De 36 à 50 €,Cuisine du marché,Bar à vins / Cave à manger,
+Le Derwin,Restaurant,44740,Route du Dervin,47.27000080000001,-2.46724949999998,+33 2 40 23 90 06,Moins de 15 €,Crêperie,Poissons et fruits de mer,
+Double Dragon,Restaurant,75011,"52, rue Saint-Maur",48.8626015,2.3798916000000645,+33 1 71 32 41 95,De 36 à 50 €,Asiatique,,
+Les Pantins,Restaurant,93500,"6, rue Victor Hugo",48.895271,2.4017954999999347,+33 1 57 14 38 74,De 16 à 35 €,Bistrot,Bar à vins / Cave à manger,
+Yaya Secrétan,Restaurant,75019,"33, avenue Secrétan",48.8811718,2.3738042999999607,+33 1 42 41 12 86,De 16 à 35 €,Grec,Méditerranéen,Néobrasserie
+Auberge des Baronnies,Restaurant,05700,D994,44.41574440000001,5.613986699999941,+33 6 51 12 91 38,De 16 à 35 €,Bistrot,,
+Le Kitchen Café,Restaurant,69007,"34, rue Chevreul",45.748438,4.8398268999999345,+33 6 03 36 42 75,De 16 à 35 €,Biocool,Café / Coffee Shop,Néobistrot
+Le Ruisseau,Restaurant,75018,"65, rue du Ruisseau",48.89445,2.3405290000000605,+33 1 42 23 31 23,Moins de 15 €,Burgers,Lèche-doigts,
+Le Petit Cambodge,Restaurant,75010,"20, rue Alibert",48.8716721,2.368088299999954,+33 1 42 45 80 88,De 16 à 35 €,Asiatique,Cambodgien,
+Dilia,Restaurant,75020,"1, rue d’Eupatoria",48.8686477,2.3862020000000257,+33 09 53 56 24 14,De 16 à 35 €,Cuisine d'auteur,Néobistrot,
+Perruche ,Restaurant,75009,"2, rue du Havre ",48.8740052,2.3272280999999566,+33 1 42 82 60 00 ,De 36 à 50 €,Nourritures mondaines,Néobrasserie,
+Yima,Restaurant,13001,"27, rue d'Aubagne",43.2952123,5.379814699999997,,De 16 à 35 €,Méditerranéen,Végétarien,Lèche-doigts
+Le Bistrot du CAM,Restaurant,13016,"1, plage de l'Estaque",43.3592576,5.316591499999959,+33 9 83 75 48 66,De 16 à 35 €,Néobistrot,,
+Miettes,Restaurant,94300,"87, rue de Fontenay",48.8481769,2.436612700000069,,Moins de 15 €,Café / Coffee Shop,Salon de thé / Pâtisserie,Snack / Tartes / Salades / Soupes / Bols
+Pho 13 ,Restaurant,75013,"135, avenue de Choisy ",48.8268989,2.359083999999939,+33 1 45 86 59 15,De 16 à 35 €,Asiatique,Vietnamien,
+La Cantine de Nour d'Egypte ,Restaurant,13001,"10, rue Bernex",43.3009497,5.388191000000006,+33 9 80 63 06 56,De 16 à 35 €,Méditerranéen,Salon de thé / Pâtisserie,Sandwichs / Bagels
+La Bicyclette,Restaurant,75019,"5, rue de Chaumont",48.8813335,2.372204600000032,,Moins de 15 €,Bistrot,Cuisine du marché,
+Ma Kitchen ,Restaurant,75010,"85, rue d’Hauteville",48.8769775,2.3512273999999707,+33 9 83 07 29 96,Moins de 15 €,Coréen,Lèche-doigts,
+Café Varenne ,Restaurant,75007,"36, rue de Varenne",48.8541245,2.323543500000028,+33 1 45 48 62 72,De 36 à 50 €,Bistrot,Café / Coffee Shop,
+Mirazur,Restaurant,06500,"30, av. Aristide-Briand",43.7857806,7.527918499999942,+33 4 92 41 86 86,Plus de 51 €,Cuisine d'auteur,,
+Närenj,Restaurant,45000,"178, rue de Bourgogne",47.9003695,1.9112594000000627,,De 16 à 35 €,Syrien,,
+LuluRouget,Restaurant,44200,"4, place Albert-Camus",47.2049033,-1.5619755000000168,+33 2 40 47 47 98,De 36 à 50 €,Néobistrot,,
+Magnolia Cafe ,Restaurant,40150,"173, avenue des Couteliers ",43.6720504,-1.384803599999941,+33 9 50 39 33 13 ,Moins de 15 €,Biocool,Salon de thé / Pâtisserie,Végétarien
+Les Cailloux,Restaurant,75013,"58, rue des Cinq-Diamants",48.8277075,2.3493086999999377,+33 1 45 80 15 08,De 36 à 50 €,Italien,,
+Amici Miei,Restaurant,75011,"44, rue Saint-Sabin ",48.8582154,2.3693737,+33 1 42 71 82 62,De 16 à 35 €,Italien,Pizzas,
+L'Entente,Restaurant,75002,"13, rue Monsigny",48.8691377,2.3353950000000623,+33 1 47 42 92 35,De 36 à 50 €,Néobrasserie,,
+Komatsubaki,Restaurant,75008,"3, rue d’Artois",48.8722719,2.3087754000000587,+ 33 1 42 25 26 78,Plus de 51 €,Japonais,Sushis,
+Jixiao’s Buns,Restaurant,75006,"19, quai des Grands Augustins",48.854059,2.343417400000021,+33 1 42 02 77 37,Moins de 15 €,Chinois,Lèche-doigts,
+Au Pot de Vin,Restaurant,06400,"20, rue Commandant-Vidal",43.5531458,7.026762200000007,+ 33 4 93 68 66 18,De 36 à 50 €,Bistrot,,
+Pizza Chic,Restaurant,75006,"13, rue de Mézières",48.8501939,2.3305947999999717,+33 1 45 48 30 38,De 16 à 35 €,Italien,Pizzas,
+Hôi An ,Restaurant,75013,"109, avenue d'Ivry ",48.82541320000001,2.3611042999999654,+33 1 44 24 81 03,De 16 à 35 €,Asiatique,Vietnamien,
+Le Saint Sébastien,Restaurant,75011,"42, rue Saint-Sébastien",48.8615124,2.3710433999999623,,De 36 à 50 €,,,
+Le Saint Eutrope ,Restaurant,63000,"4, rue Saint-Eutrope",45.78130290000001,3.082430899999963,+33 4 73 34 30 41,De 16 à 35 €,Biocool,Bistrot,Bar à vins / Cave à manger
+Rooster,Restaurant,75017,"137, rue Cardinet",48.886801,2.313211000000024,+33 1 45 79 91 48,Plus de 51 €,Néobistrot,,
+Sellae,Restaurant,75013,"18, rue des Wallons",48.838707,2.3596089999999776,+33 1 43 31 36 04,De 36 à 50 €,Néobistrot,,
+Massale,Restaurant,75011,"5, rue Guillaume Bertrand",48.8634143,2.379830800000036,+ 33 1 73 79 87 90,De 36 à 50 €,Néobistrot,Bar à vins / Cave à manger,
+Le Drugstore,Restaurant,75008,"133, av. des Champs-Elysées",48.872519,2.297064099999943,+33 1 44 43 77 64,Plus de 51 €,Néobrasserie,,
+Bonhomie ,Restaurant,75010,"22, rue d’Enghien",48.872098,2.351262399999996,+33 9 83 88 82 51,De 36 à 50 €,Méditerranéen,Néobistrot,
+Loca,Restaurant,75018,"29, rue Lambert",48.8891466,2.344799299999977,+33 1 73 71 07 03,De 36 à 50 €,Néobistrot,Viandes / Grillades,
+Bojan,Restaurant,34000,"6, rue de l'Université",43.61210579999999,3.8765458999999964,+33 4 67 05 22 90,De 16 à 35 €,Cuisine d'auteur,Tapas,
+Barak,Restaurant,75010,"62, rue du Faubourg-Poissonnière",48.87551819999999,2.3482715999999755,Pas de téléphone ,Moins de 15 €,Kebabs,Sandwichs / Bagels,Lèche-doigts
+Grand Café d'Athènes,Restaurant,75010,"74, rue du Faubourg Saint-Denis",48.87310799999999,2.354795500000023,+33 1 74 64 65 46,De 16 à 35 €,Café / Coffee Shop,Grec,Méditerranéen
+Le Servan,Restaurant,75011,"32, rue Saint-Maur",48.86101559999999,2.3814505999999938,+33 1 55 28 51 82,De 36 à 50 €,Cuisine d'auteur,Néobistrot,
+L'Attache,Restaurant,75011,"52, rue Basfroi",48.8565569,2.3782940999999482,+ 33 1 45 31 01 22,De 16 à 35 €,Bar à vins / Cave à manger,,
+Pépite,Restaurant,31300,"27-29, rue Charles Viguerie",43.6002336,1.4352747000000363,+33 5 61 31 95 93,De 16 à 35 €,Cuisine d'auteur,Cuisine du marché,Bar à vins / Cave à manger
+Ave Pizza Romana,Restaurant,75011,"90, rue de la Folie Méricourt",48.8669245,2.36964439999997,+33 9 83 63 83 81,De 16 à 35 €,Italien,Pizzas,
+L'Amarré,Restaurant,56000,"6, rue Pasteur",47.6553873,-2.764767099999972,+33 2 97 66 59 89,De 36 à 50 €,Cuisine d'auteur,Poissons et fruits de mer,
+Le Pompon,Restaurant,06400,"4, rue Emile Négrin",43.5523268,7.0146254999999655,+33 4 93 30 31 23,De 16 à 35 €,Cuisine du marché,Néobistrot,
+Le Glouphile ,Restaurant,06300,"41, bd Stalingrad",43.69617420000001,7.286884099999952,,De 16 à 35 €,Planches / Assiettes froides,Bar à vins / Cave à manger,
+Plage Palace,Restaurant,34250,"336, av. Saint-Maurice",43.541212,3.9690952999999354,+33 4 34 08 63 00,De 36 à 50 €,Méditerranéen,Poissons et fruits de mer,
+Yafo,Restaurant,75010,"96, rue d'Hauteville",48.8773422,2.351675099999966,Pas de téléphone,Moins de 15 €,Lèche-doigts,,
+Sbrisolona,Restaurant,75011,"44, rue Trousseau",48.8522421,2.379231699999991,+33 9 84 48 14 58,De 16 à 35 €,Italien,Snack / Tartes / Salades / Soupes / Bols,
+Krügen,Restaurant,75011,"58, rue de la Fontaine-au-Roi",48.8680751,2.373889200000008,+33 9 52 29 78 79,De 16 à 35 €,Crêperie,,
+Trois Fois Plus de Piment Saint Germain,Restaurant,75005,"17, rue Frédéric Sauton",48.8507225,2.3491624000000684,+33 1 42 01 65 15,Moins de 15 €,Asiatique,Chinois,
+Marzo Rive Droite,Restaurant,75116,"84, rue Lauriston",48.8671183,2.287511600000016,+33 1 45 05 51 18,De 16 à 35 €,Italien,Pizzas,
+Petit Navire,Restaurant,75020,"85, rue Julien-Lacroix",48.8717761,2.382539700000052,+33 1 43 58 79 64,De 16 à 35 €,Bistrot,Méditerranéen,
+Bontemps,Restaurant,75003,"57, rue de Bretagne",48.8638169,2.360690100000056,+33 1 42 74 10 68,De 16 à 35 €,Salon de thé / Pâtisserie,Snack / Tartes / Salades / Soupes / Bols,
+Le Costes,Restaurant,75001,"239-241, rue Saint-Honoré",48.8666683,2.327974499999982,+33 1 42 44 50 25,Plus de 51 €,Nourritures mondaines,,
+Hero,Restaurant,75002,"289, rue Saint-Denis",48.86949910000001,2.3523430999999846,+33 1 42 33 38 01,De 16 à 35 €,Coréen,,
+Le Bougainville,Restaurant,75002,"5, rue de la Banque",48.8665455,2.3400839999999334,+33 1 42 60 05 19,De 16 à 35 €,Bistrot,,
+Coinstot Vino,Restaurant,75002,"26 bis, passage des Panoramas",48.8706514,2.341592100000071,+33 1 44 82 08 54,De 16 à 35 €,Pizzas,Bar à vins / Cave à manger,
+Hôtel Bachaumont,Restaurant,75002,"18, rue Bachaumont",48.8662318,2.345047300000033,+33 1 81 66 47 50,De 36 à 50 €,Nourritures mondaines,Néobrasserie,
+Okomusu,Restaurant,75003,"11, rue Charlot",48.86149529999999,2.3607534000000214,+33 1 57 40 97 27,De 16 à 35 €,Asiatique,Japonais,
+Prosper et Fortunée,Restaurant,75005,"50, rue Broca",48.8376222,2.347202599999946,+33 1 43 37 70 39,Plus de 51 €,Cuisine d'auteur,Néobistrot,
+Maison David,Restaurant,75004,"6, rue des Ecouffes",48.8564745,2.3584253000000217,+33 1 77 18 23 62,Plus de 51 €,Yiddish,Viandes / Grillades,Sandwichs / Bagels
+Bellota-Bellota,Restaurant,75008,"11, rue Clément Marot",48.8673991,2.303276,+33 1 46 33 49 54,De 36 à 50 €,Espagnol,Sandwichs / Bagels,Lèche-doigts
+Ahipoké,Restaurant,75010,"84, rue d'Hauteville",48.8765793,2.3514580999999453,+33 9 86 21 93 78,Moins de 15 €,Snack / Tartes / Salades / Soupes / Bols,Lèche-doigts,Hawaïen
+La Taverne de Zhao,Restaurant,75010,"49, rue des Vinaigriers",48.87313409999999,2.360299199999986,+33 1 40 37 16 21 ,De 16 à 35 €,Chinois,,
+Peco Peco,Restaurant,75009,"47, rue Jean-Baptiste-Pigalle",48.8802525,2.3346105000000534,+33 1 53 16 19 84,De 16 à 35 €,Asiatique,Japonais,
+Il Cuoco Galante,Restaurant,75009,"36, rue Condorcet",48.8800049,2.3450961999999436,+ 33 1 40 37 35 53,De 16 à 35 €,Italien,,
+Pianovins,Restaurant,75011,"46, rue Trousseau",48.8523649,2.3792419999999765,+33 1 48 06 95 85,De 36 à 50 €,Néobistrot,,
+Mikado,Restaurant,34000,"31, rue Alexandre Cabanel",43.6077662,3.8748183000000154,+33 7 88 19 12 29,De 16 à 35 €,Japonais,Bar à vins / Cave à manger,
+CheZaline,Restaurant,75011,"85, rue de la Roquette",48.8571274,2.378407799999991,+33 1 43 71 90 75,Moins de 15 €,Cuisine du marché,Sandwichs / Bagels,Lèche-doigts
+Robert,Restaurant,75011,"32, rue de la Fontaine au Roi",48.8681354,2.3716507999999976,+33 1 43 57 20 29,De 36 à 50 €,Néobistrot,,
+Bistrot Paul Bert,Restaurant,75011,"18, rue Paul-Bert",48.85221019999999,2.385017699999935,+33 1 43 72 24 01,De 36 à 50 €,Bistrot,Cuisine du marché,Bar à vins / Cave à manger
+Pierre Sang in Oberkampf,Restaurant,75011,"55, rue Oberkampf",48.8647218,2.3724244999999655,+33 9 67 31 96 80 ,De 16 à 35 €,Cuisine d'auteur,Néobistrot,
+Virtus,Restaurant,75012,"29, rue de Cotte",48.8501852,2.377965099999983,+33 9 80 68 08 08,De 36 à 50 €,Cuisine d'auteur,Cuisine du marché,Néobistrot
+Le 6 Paul Bert,Restaurant,75011,"6, rue Paul-Bert",48.8513318,2.3846753000000263,+33 1 43 79 14 32,De 36 à 50 €,Néobistrot,,
+Brutos,Restaurant,75011,"5, rue du Général-Renault",48.8615187,2.3781291000000238,+33 1 48 06 98 97,De 36 à 50 €,Néobistrot,Viandes / Grillades,
+Kigawa ,Restaurant,75014,"186, rue du Château",48.833134,2.3242692000000034,,Plus de 51 €,Cuisine d'auteur,,
+Chez Joy,Restaurant,75014,"84, rue Daguerre",48.83579109999999,2.3248510999999326,+33 1 43 20 01 68,De 16 à 35 €,Asiatique,Thaïlandais,Vietnamien
+Les Grands Verres,Restaurant,75016,"13, av. du Président Wilson",48.8645866,2.2966748000000052,+33 1 85 53 03 61,De 36 à 50 €,Méditerranéen,,
+Bouillon Pigalle,Restaurant,75018,"22, boulevard de Clichy ",48.8826517,2.3374635000000126,+33 1 42 59 69 31,Moins de 15 €,Brasserie,Terroir,
+Les Marches,Restaurant,75116,"5, rue de la Manutention",48.86390129999999,2.2959468000000243,+33 1 47 23 52 80,De 16 à 35 €,Bistrot,,
+Le Cabanon de l'Ecailler ,Restaurant,75014,"14, pl. Constantin Brancusi",48.8371072,2.3207373999999845,+33 1 43 20 52 17,De 16 à 35 €,Poissons et fruits de mer,,
+Marcelle,Restaurant,75001,"22, rue Montmartre",48.864102,2.345639300000016,+33 1 40 13 04 04,De 16 à 35 €,Café / Coffee Shop,Snack / Tartes / Salades / Soupes / Bols,
+Le Baratin,Restaurant,75020,"3, rue Jouye-Rouve",48.8731293,2.382917799999973,+33 1 43 49 39 70,De 36 à 50 €,Bistrot,Cuisine d'auteur,Bar à vins / Cave à manger
+Fine l'Epicerie ,Restaurant,75020,30 Rue de Belleville,48.8725592,2.3796718999999484,+33 9 81 17 95 88,Moins de 15 €,Terroir,Sandwichs / Bagels,
+Mokonuts,Restaurant,75011,"5, rue Saint-Bernard",48.8507906,2.3813834000000043,,De 36 à 50 €,Café / Coffee Shop,Cuisine du marché,Salon de thé / Pâtisserie
+Le Dauphin,Restaurant,75011,"131, av. Parmentier",48.869447,2.371115400000008,+33 1 55 28 78 88,De 36 à 50 €,Tapas,Bar à vins / Cave à manger,
+Melt 17,Restaurant,75017,"83, rue Legendre",48.8877859,2.3202774999999747,+33 9 87 09 99 25 ,De 16 à 35 €,Viandes / Grillades,Lèche-doigts,
+La Buvette,Restaurant,75011,"67, rue Saint-Maur",48.8629024,2.3792240999999876,+33 9 83 56 94 11,Moins de 15 €,Bar à vins / Cave à manger,,
+Tzeferakos,Restaurant,75005,"24, rue Monge",48.8468959,2.3511320999999725,+ 33 1 46 34 76 27,De 16 à 35 €,Grec,Lèche-doigts,
+Aux Prés,Restaurant,75006,"27, rue du Dragon",48.85272399999999,2.33051219999993,+33 1 45 48 29 68 ,Plus de 51 €,Néobistrot,,
+Breizh Café Le Marais,Restaurant,75004,"109, rue Vieille-du-Temple",48.8606353,2.3618604000000687,+33 1 42 72 13 77,De 16 à 35 €,Crêperie,Breton,
+Elmer,Restaurant,75003,"30, rue Notre-Dame-de-Nazareth",48.86742719999999,2.359420699999987,+33 1 43 56 22 95,Plus de 51 €,Cuisine du marché,Néobistrot,
+Polissons,Restaurant,75018,"35, rue Ramey",48.8891668,2.3462458999999853,,De 36 à 50 €,Néobistrot,,
+Freddy’s,Restaurant,75006,"54, rue de Seine",48.8540863,2.3368735000000243,Pas de téléphone,De 16 à 35 €,Tapas,Bar à vins / Cave à manger,
+Banh Mi,Restaurant,75003,"81, rue de Turbigo",48.86666719999999,2.3606803999999784,+33 1 48 04 98 90,Moins de 15 €,Asiatique,Vietnamien,Snack / Tartes / Salades / Soupes / Bols
+Le Clarence,Restaurant,75008,"31, av. Franklin-Delano-Roosevelt",48.86743920000001,2.3098377000000028,+33 1 82 82 10 10,Plus de 51 €,Cuisine d'auteur,,
+Eels,Restaurant,75010,"27, rue d'Hauteville",48.8732428,2.350104999999985,+33 1 42 28 80 20,Plus de 51 €,Cuisine d'auteur,Néobistrot,
+Plume,Restaurant,75007,"24, rue Pierre-Leroux",48.8487714,2.319201000000021,+33 1 43 06 79 85,De 36 à 50 €,Cuisine d'auteur,Néobistrot,
+Miss Lunch,Restaurant,75012,"3, rue Antoine-Vollon",48.8504446,2.3765937000000577,+33 1 53 33 03 59,De 16 à 35 €,Cuisine du marché,,
+Okame,Restaurant,75008,235 Rue du Faubourg Saint-Honoré,48.877385,2.2986499999999523,+33 1 46 22 95 03,De 16 à 35 €,Asiatique,Japonais,
+Gare au Gorille ,Restaurant,75017,"68, rue des Dames",48.8835719,2.319894999999974,+33 1 42 94 24 02,De 36 à 50 €,Cuisine d'auteur,Cuisine du marché,Néobistrot
+Bal Café Otto,Restaurant,75018,"6, impasse de la Défense",48.8852725,2.3273269000000028,+ 33 1 44 70 75 51,De 16 à 35 €,Café / Coffee Shop,Néobistrot,Autrichien
+L'Archeste,Restaurant,75116,"79, rue de la Tour",48.86174190000001,2.2780983000000106,+ 33 1 40 71 69 68,Plus de 51 €,Cuisine d'auteur,,
+Jan,Restaurant,06300,"12, rue Lascaris",43.6997914,7.284823299999971,+33 4 97 19  32 23,Plus de 51 €,Cuisine d'auteur,Néobistrot,
+Le Chien de la Lune,Restaurant,75018,"22, rue de Jessaint",48.8850919,2.3553627000000006,+33 1 42 62 40 60 ,De 16 à 35 €,Bistrot,Cuisine du marché,
+Pure & V,Restaurant,06000,"15, rue Bottero",43.6964938,7.254139099999975,,Plus de 51 €,Cuisine d'auteur,,
+La Mise au Verre,Restaurant,06000,"17, rue Pastorelli",43.7011315,7.272641199999953,+33 4 93 85 69 90,De 36 à 50 €,Bistrot,Cuisine du marché,Bar à vins / Cave à manger
+Yuyu Bento ,Restaurant,06000,"27, rue Tonduti-de-l'Escarene",43.7019907,7.272827000000007,+33 4 93 79 73 53,Moins de 15 €,Japonais,,
+La Clé des Champs,Restaurant,67150,"171, rue de l’Ecole",48.4482969,7.671320400000013,+33 3 88 98 10 92,De 16 à 35 €,Bistrot,Cuisine du marché,Alsacien
+Huître Brûlée,Restaurant,14600,"8, rue Brûlée",49.4204939,0.23200129999997898,+ 33 9 82 57 90 18,De 16 à 35 €,Bistrot,Cuisine du marché,Terroir
+Le Rouge aux Lèvres ,Restaurant,17000,"4, rue des Cloutiers",46.1621292,-1.1488190000000031,+33 5 46 50 08 17,De 16 à 35 €,Néobistrot,Bar à vins / Cave à manger,
+Le Comptoir Breizh Café,Restaurant,35400,"6, rue de l’Orme ",48.6480979,-2.025156000000038,+33 2 99 56 96 08,De 16 à 35 €,Crêperie,,
+Fontevraud Le Restaurant,Restaurant,49590,"38, rue Saint-Jean-de-L’Habit",47.1810713,0.05228050000005169,+33 2 46 46 10 20,De 36 à 50 €,Cuisine d'auteur,Néobistrot,
+Barbakoa,Restaurant,64200,Rue de Palassie,43.4603537,-1.5635896999999659,+33 5 59 85 42 72,De 16 à 35 €,Bistrot,Viandes / Grillades,
+Vermillon,Restaurant,75009,"5, rue de Calais",48.8822195,2.3313728000000538,+ 33 1 42 41 49 68,De 16 à 35 €,Cuisine du marché,,
+Tomo,Restaurant,69006,"7, rue Pierre-Corneille",45.76726,4.843246099999988,+33 4 78 41 84 60,De 36 à 50 €,Asiatique,Japonais,
+Aux Crieurs de Vin,Restaurant,10000,"4, place Jean-Jaurès",48.2951749,4.071304599999962,+33 3 25 40 01 01,De 16 à 35 €,Bistrot,Cuisine du marché,Bar à vins / Cave à manger
+Le Canon,Restaurant,06000,"23, rue Meyerbeer",43.6971056,7.260333800000012,+33 4 93 79 09 24,De 36 à 50 €,Bistrot,Cuisine du marché,Terroir
+Sépia,Restaurant,13007,"2, rue Vauvenargues",43.2894509,5.36857550000002,+33 9 83 82 67 27,De 36 à 50 €,Bistrot,,
+Ferme-Auberge de Jassenove,Restaurant,12100,Jassenove-du-Larzac,44.07456,3.1972200000000157,+33 5 65 60 71 80,De 16 à 35 €,Terroir,,
+Café Bras,Restaurant,12000,Jardin du Foirail,44.3517432,2.568869100000029,+33 5 65 68 06 70,De 16 à 35 €,Cuisine d'auteur,Néobistrot,Terroir
+Maïdo,Restaurant,06000,"29, rue Tonduti-de-l'Escarène",43.7019738,7.272617399999945,+33 4 93 87 97 28,De 16 à 35 €,Japonais,Tapas,
+L'Art et la Matière,Restaurant,15000,"4, rue du Salut ",44.9292761,2.4460507000000007,+33 9 83 58 61 55,Moins de 15 €,Café / Coffee Shop,Planches / Assiettes froides,Bar à vins / Cave à manger
+Madame Jeanne,Restaurant,13006,"84-86, rue Grignan",43.2915462,5.37381490000007,+33 04 86 26 54 16,De 36 à 50 €,Néobistrot,,
+La Côte Rôtie ,Restaurant,17000,"2, bd Maréchal-Lyautey ",46.1618682,-1.2027413000000706,+33 5 46 44 04 19,De 16 à 35 €,Bistrot,Cuisine du marché,
+Vientiane,Restaurant,13002,16 Rue de la Mûre,43.2975688,5.371928099999991,+33 6 09 16 82 63,De 16 à 35 €,Laotien,Vietnamien,Chinois
+Le Gibolin,Restaurant,13200,"13, rue des Porcelets",43.6769052,4.62414739999997,+33 4 88 65 43 14,De 16 à 35 €,Bistrot,Bar à vins / Cave à manger,
+Le Four Pop,Restaurant,13600,"11, rue Edgar-Quinet",43.1753795,5.6091034999999465,+33 4 42 82 96 81,Moins de 15 €,Italien,Pizzas,
+L’Abri des Barges,Restaurant,22220,Moulin du Carpont,48.803676,-3.212621000000013,+33 2 96 40 04 04,De 36 à 50 €,Cuisine du marché,Néobistrot,Poissons et fruits de mer
+L'Oiseau sur sa Branche,Restaurant,26400,Pl. du Village,44.6458141,5.062354899999946,+33 4 75 76 02 03,De 16 à 35 €,Bistrot,Café / Coffee Shop,
+La Marmite,Restaurant,30000,"13, rue de l'Agau",43.8394645,4.356563999999935,+33 4 66 29 98 23,De 16 à 35 €,Bistrot,Bar à vins / Cave à manger,
+Le Verre à Soie,Restaurant,26110,"12, pl. du Dr-Bourdongle",44.3602357,5.140411399999948,+33 4 75 26 15 18,De 16 à 35 €,Bistrot,Bar à vins / Cave à manger,
+L'Aspérule ,Restaurant,21000,"43, rue Jean-Jacques-Rousseau",47.3247734,5.044995500000027,+33 3 80 19 12 84,Plus de 51 €,Cuisine d'auteur,,
+Le Veilleur d'Urval ,Restaurant,24480,Le Bourg,44.81264760000001,0.9490223000000242,+33 5 47 77 25 31,De 16 à 35 €,Biocool,Cuisine du marché,Néobistrot
+A Casarella,Restaurant,20220,Rue de Barcelone,42.5991996,8.901860700000043,+33 4 95 61 78 08,De 16 à 35 €,Casse-croûte,Corse,Terroir
+Auberge de Chassignolles,Restaurant,43440,Le Bourg,45.397506,3.4918030000000044,+33 4 71 76 32 36,De 16 à 35 €,Biocool,Bistrot,Terroir
+Pas comme les autres,Restaurant,34500,"3, rue Porte-Olivier",43.3443034,3.2122084000000086,+33 4 67 48 53 05,De 16 à 35 €,Bar à vins / Cave à manger,,
+Tentazioni,Restaurant,33000,"59, rue du Palais-Gallien",44.843528,-0.5817750999999589,+33 5 56 52 62 12,De 36 à 50 €,Bistrot,Cuisine du marché,Italien
+Hutong,Restaurant,33000,"1, pl. Général-Sarrail",44.8323028,-0.5725476000000072,+33 9 67 61 81 99,De 16 à 35 €,Lèche-doigts,Singapourien,
+Paradiso,Restaurant,34200,"11, quai de la Résistance",43.4041138,3.6965976000000182,+ 33 4 67 74 26 48,Moins de 15 €,Lèche-doigts,,
+L'Esprit du Causse,Restaurant,46260,Le Bourg,44.40155000000001,1.6441389999999956,+ 33 5 65 22 37 66,De 16 à 35 €,Cuisine d'auteur,Cuisine du marché,
+"Vincent, Cuisinier de Campagne",Restaurant,37140,"19, rue de la Gallotière",47.285803,0.26769609999996646,+33 2 47 96 17 21,De 16 à 35 €,Cuisine d'auteur,Terroir,
+Le Pourquoi Pas ,Restaurant,35800,"17, av. George-V",48.6344574,-2.0490763000000243,+ 33 2 99 80 30 00,Plus de 51 €,Cuisine d'auteur,Néobistrot,
+L'Arsouille,Restaurant,35000,"17, rue Paul-Bert",48.1107627,-1.6697503000000324,+33 2 99 38 11 10,De 16 à 35 €,Cuisine d'auteur,Néobistrot,Bar à vins / Cave à manger
+Petite Nature,Restaurant,35000,"1, pl. de la Rotonde ",48.10687739999999,-1.6870691999999963,+33 2 57 21 29 07,Moins de 15 €,Biocool,Café / Coffee Shop,Snack / Tartes / Salades / Soupes / Bols
+Le Globe,Restaurant,35000,"32, bd de la Liberté ",48.1078057,-1.6811064999999417,+33 2 99 79 44 44,De 16 à 35 €,Bistrot,Cuisine du marché,
+Le Bistrot du Rocher,Restaurant,35400,"19, rue de Toulouse",48.6466737,-2.02626429999998,+33 2 99 40 82 05,De 16 à 35 €,Bistrot,Cuisine du marché,
+Le P'tit Restau ,Restaurant,37600,"6, Grande Rue",47.1281526,0.9983339999999998,+33 2 47 19 85 32,De 16 à 35 €,Néobistrot,,
+Mambo Delizie Italiane,Restaurant,40130,"81, avenue Maréchal-de-Lattre-de-Tassigny",43.6490294,-1.4432047000000239,+33 9 73 23 34 13,De 36 à 50 €,Italien,,
+La Grenouillère,Restaurant,62170,"19, rue de la Grenouillère",50.4710684,1.7543530000000374,+33 3 21 06 07 22,Plus de 51 €,Cuisine d'auteur,,
+L'Aromatique ,Restaurant,12800,"7, bd Eugène-Viala",44.1978857,2.3408286999999746,+33 5 65 42 49 64,De 16 à 35 €,Cuisine du marché,Néobistrot,
+Pastis Restaurant,Restaurant,34000,"3, rue Terral",43.6099367,3.8736836000000494,+33 4 67 66 37 26,De 36 à 50 €,Cuisine d'auteur,Cuisine du marché,Néobistrot
+Anecdote,Restaurant,62170,"1, rue des Juifs",50.46489020000001,1.763130799999999,+33 3 21 86 65 80 ,De 36 à 50 €,Cuisine d'auteur,Néobistrot,
+Le Clos Caché,Restaurant,46230,Clau del Mazut,44.3618745,1.628714500000001,+33 5 65 24 56 26,Plus de 51 €,Bistrot,Cuisine du marché,Terroir
+Rouge Barre ,Restaurant,59800,"50, rue de la Halle",50.6443509,3.0593311000000085,+33 3 20 67 08 84,De 36 à 50 €,Néobistrot,,
+L’Annexe,Restaurant,56360,3 Quai de l'Acadie,47.3477026,-3.1542590000000246,,De 16 à 35 €,Crêperie,,
+La Verticale ,Restaurant,61130,"9, pl. de la République",48.3764691,0.5611029000000372,+33 2 33 25 67 16,De 36 à 50 €,Tapas,Bar à vins / Cave à manger,
+Le Vagabond,Restaurant,59800,"112, rue Saint-André",50.6461024,3.055718200000001,Pas de téléphone. ,De 36 à 50 €,Cuisine d'auteur,Néobistrot,
+La Bijouterie,Restaurant,69001,"16, rue Hippolyte-Flandrin",45.7679975,4.830504700000006,+33 4 78 08 14 03,De 16 à 35 €,Cuisine d'auteur,Néobistrot,
+Le Grand Couvert,Restaurant,71340,La Colline du Colombier,46.1888348,4.067439499999978,+33 3 85 84 07 24,De 36 à 50 €,Néobistrot,Terroir,
+Aux Terrasses ,Restaurant,71700,"18, av. du 23-Janvier",46.55904959999999,4.9142504000000145,+33 3 85 51 01 74,Plus de 51 €,Cuisine d'auteur,Néobistrot,
+Ravigote,Restaurant,69003,"76, rue Mazenod",45.75882989999999,4.848103700000024,+33 4 72 15 45 54,De 16 à 35 €,Cuisine du marché,Néobistrot,
+Le Garriane,Restaurant,66000,"15, rue Valette",42.6968519,2.8806356999999707,+33 4 68 67 07 44,De 36 à 50 €,Bistrot,Cuisine d'auteur,
+Le Quillosque,Restaurant,63000,"4, rue Saint-Eutrope",45.78130290000001,3.082430899999963,+33 4 73 34 30 41,De 16 à 35 €,Planches / Assiettes froides,Bar à vins / Cave à manger,
+Odessa Comptoir,Restaurant,69001,"14, rue René-Leynaud",45.7696548,4.833297499999958,+33 9 80 34 32 51,,Cuisine du marché,Bar à vins / Cave à manger,
+L'O des Vignes,Restaurant,71960,"129, rue du Bourg",46.28024780000001,4.7434518000000025,+33 3 85 38 33 40,De 16 à 35 €,Bistrot,Bar à vins / Cave à manger,
+Le P’tit Suisse,Restaurant,64500,Pl. Louis-XIV,43.3876588,-1.6646117000000231,+33 5 59 51 85 52 ,Moins de 15 €,Néobistrot,Bar à vins / Cave à manger,
+Auberge La Fenière,Restaurant,84160,Route de Lourmarin,43.74882900000001,5.3643030000000635,+33 4 90 68 11 79,Plus de 51 €,Cuisine d'auteur,Méditerranéen,
+Le Chardenoux,Restaurant,75011,"1, rue Jules-Vallès",48.8527401,2.3849338999999645,+33 1 43 71 49 52,Plus de 51 €,Néobistrot,Poissons et fruits de mer,
+Au Fil du Zinc,Restaurant,89800,"18, rue des Moulins",47.8162817,3.8009716000000253,+33 3 86 33 96 39,De 36 à 50 €,Cuisine d'auteur,Néobistrot,
+L'Espiguette,Restaurant,76000,"25, pl. Saint-Amand",49.4416725,1.097422300000062,+33 2 35 71 66 27,De 36 à 50 €,Bistrot,,
+Le Petit Vendôme,Restaurant,75002,"8, rue des Capucines",48.8688091,2.3297599999999647,+33 1 42 61 05 88,De 16 à 35 €,Café / Coffee Shop,Terroir,Sandwichs / Bagels
+La Table d'Elise,Restaurant,85330,"5, rue Marie-Lemonnier",47.0236999,-2.299921700000027,+33 2 28 10 68 35,De 16 à 35 €,Cuisine du marché,Néobistrot,
+Le Mathurin,Restaurant,80230,"1, pl. des Pilotes",50.1863501,1.6389692999999852,+33 3 22 30 08 50 ,De 36 à 50 €,Poissons et fruits de mer,,
+Bistrot Constant,Restaurant,82700,"25, av. de l’Usine",43.96105960000001,1.235888799999998,+33 5 63 24 63 02,De 36 à 50 €,Bistrot,Terroir,
+Takao Takano,Restaurant,69006,"33, rue Malesherbes",45.7703624,4.842665699999998,+33 4 82 31 43 39,Plus de 51 €,Cuisine d'auteur,,
+Prairial,Restaurant,69001,"11, rue Chavanne",45.7649342,4.8325417999999445,+33 4 78 27 86 93,Plus de 51 €,Néobistrot,,
+L'Antre,Restaurant,64210,"6, av. de la Grande-Plage",43.43924579999999,-1.590779800000064,+33 5 59 47 78 92,De 36 à 50 €,Biocool,Cuisine d'auteur,Néobistrot
+Le Jeu de Quilles,Restaurant,69001,"1, pl. Meissonier",45.76634989999999,4.8325803999999835,+33 4 82 91 22 65 ,De 16 à 35 €,Cuisine du marché,Planches / Assiettes froides,Bar à vins / Cave à manger
+La Comédie des Vins,Restaurant,44000,"4, rue Suffren",47.213,-1.5608829999999898,+33 2 40 73 11 68,Moins de 15 €,Planches / Assiettes froides,Bar à vins / Cave à manger,
+Cibo,Restaurant,64200,"51 bis, rue Gambetta",43.47914189999999,-1.564233300000069,+33 5 35 46 56 71,De 16 à 35 €,Italien,Pizzas,Végétarien
+La Mercerie,Restaurant,13001,"9, cours Saint-Louis",43.2958061,5.378418199999942,+33 4 91 06 18 44,De 36 à 50 €,Néobistrot,Bar à vins / Cave à manger,
+Cantina,Restaurant,75010,"11, rue Marie-et-Louise",48.87188,2.366474499999981,,De 16 à 35 €,Tapas,Néobistrot,
+La Pêche à la Vigne,Restaurant,06300,"13, rue Cassini",43.6995988,7.28289570000004,+33 4 93 31 17 45,De 16 à 35 €,Bar à vins / Cave à manger,,
+Chez Alphonse,Restaurant,87000,"5, pl. de la Motte",45.8290962,1.256469,+33 5 55 34 34 14,De 16 à 35 €,Bistrot,Brasserie,Cuisine du marché
+Restaurant du Badaboum,Restaurant,75011,"2, rue des Taillandiers",48.85345299999999,2.3757510000000366,+33 1 85 09 75 46,De 16 à 35 €,Cuisine d'auteur,Cuisine du marché,Néobistrot
+Le Chateaubriand,Restaurant,75011,"129, av. Parmentier",48.8693593,2.371313999999984,+33 1 43 57 45 95,Plus de 51 €,Cuisine d'auteur,Néobistrot,
+Frenchie bar à vins,Restaurant,75002,"6, rue du Nil",48.8678009,2.347908,+33 1 40 39 96 19,De 36 à 50 €,Bar à vins / Cave à manger,,
+Le Ruisseau Burger Joint,Restaurant,75003,"22, rue Rambuteau",48.86115820000001,2.3545435999999427,+33 1 43 70 02 21,Moins de 15 €,Burgers,Lèche-doigts,
+Soif,Restaurant,33000,"35, rue du Cancera",44.8399295,-0.5724869000000581,+33 9 86 10 42 40,De 16 à 35 €,Cuisine d'auteur,Néobistrot,Bar à vins / Cave à manger
+Street Bangkok Roast & Beer,Restaurant,75002,"112, rue Saint-Denis",48.8639143,2.3503427000000556,+33 1 42 36 60 92,De 16 à 35 €,Asiatique,Thaïlandais,Lèche-doigts
+Miss Marple,Restaurant,75007,"16, av. de la Motte-Picquet",48.8565084,2.308484700000008,+33 01 45 50 14 27 ,De 36 à 50 €,Salon de thé / Pâtisserie,Snack / Tartes / Salades / Soupes / Bols,
+Chinaski,Restaurant,75005,"46, rue Daubenton",48.8403583,2.350235600000019,+33 1 73 74 74 06,De 16 à 35 €,Café / Coffee Shop,Cuisine d'auteur,Néobistrot
+Tontine,Restaurant,75011,"14, rue Crespin du Gast",48.8654569,2.382024900000033,+33 1 48 06 18 48,De 36 à 50 €,Asiatique,Néobistrot,
+Lamaccotte,Restaurant,44000,"63, rue de Bel-Air",47.2241997,-1.5593215999999757,+33 2 85 37 42 30,De 36 à 50 €,Néobistrot,,
+Cosi,Restaurant,75006,"54, rue de Seine",48.8540863,2.3368735000000243,+33 1 46 33 35 36,Moins de 15 €,Sandwichs / Bagels,Lèche-doigts,
+Popolare,Restaurant,75002,"111, rue Réaumur",48.8681273,2.343293399999993,+ 33 1 42 21 30 91,Moins de 15 €,Italien,Pizzas,
+Déviant,Restaurant,75010,"39, rue des Petites-Ecuries",48.8738211,2.35000279999997,+33 1 48 24 66 79,De 16 à 35 €,Bar à vins / Cave à manger,Lèche-doigts,
+Chez Alain Miam Miam,Restaurant,75003,"26, rue Charlot",48.86226010000001,2.3620224000000007,+33 9 86 17 28 00,Moins de 15 €,Biocool,Crêperie,Sandwichs / Bagels
+Restaurant Hôtel Voltaire,Restaurant,13200,"1, pl. Voltaire",43.6800265,4.631295399999999,+33 4 90 96 49 18,De 16 à 35 €,Cuisine du marché,Méditerranéen,Néobistrot
+Adar,Restaurant,75002,"49, passage des Panoramas",48.8709479,2.341645900000003,,De 16 à 35 €,Cuisine du marché,Méditerranéen,Sandwichs / Bagels
+Hôtel Amour à la Plage ,Restaurant,06000,"47, promenade des Anglais",43.6938893,7.255766200000039,+33 4 97 14 00 83,De 16 à 35 €,Méditerranéen,Poissons et fruits de mer,
+Bel Ami,Restaurant,69001,"34, rue du Sergent-Blandan",45.7686986,4.830235399999992,+33 9 87 14 20 50,De 16 à 35 €,Néobistrot,,
+Clamato,Restaurant,75011,"80, rue de Charonne",48.8535855,2.3807021999999733,+33 1 43 72 74 53,De 36 à 50 €,Poissons et fruits de mer,,
+Les Terroiristes Associés,Restaurant,35400,"21, rue de Dinan",48.647578,-2.026467000000025,+33 2 23 17 24 49,De 16 à 35 €,Bistrot,Cuisine du marché,Bar à vins / Cave à manger
+CoCo,Restaurant,75009,"1, pl. Jacques-Rouché",48.8720588,2.3322736000000077,+33 1 42 68 86 80,Plus de 51 €,Brasserie,Nourritures mondaines,
+La Chassagnette,Restaurant,13200,Mas de la Chassagnette,43.567656,4.667997000000014,+33 4 90 97 26 96,Plus de 51 €,Cuisine d'auteur,Néobistrot,Terroir
+Choko Ona,Restaurant,64250,"155, rue Xerrendako Bidea",43.34161456940928,-1.4448201656341553,+33 5 59 15 71 65,De 36 à 50 €,Cuisine d'auteur,Néobistrot,Terroir
+Restaurant Passerini,Restaurant,75012,"65, rue Traversière",48.8494184,2.374820600000021,+ 33 1 43 42 27 56,De 36 à 50 €,Cuisine d'auteur,Italien,Néobistrot
+Ze Kitchen Galerie,Restaurant,75006,"4, rue des Grands-Augustins",48.8549703,2.341129799999976,+33 1 44 32 00 32,Plus de 51 €,Cuisine d'auteur,Néobistrot,
+Anna,Restaurant,75011,"134-136, rue Saint-Maur",48.8682374,2.3751870999999483,+33 9 51 17 98 59,De 16 à 35 €,Bistrot,Tapas,
+Flesh,Restaurant,75010,"23, rue Louis-Blanc",48.880044,2.3667786999999407,+33 1 40 36 58 81,De 36 à 50 €,Viandes / Grillades,,
+Autour du Yangtse,Restaurant,75009,"12, rue du Helder",48.8720325,2.3350642000000335,+33 1 53 34 05 78,Moins de 15 €,Chinois,,
+Le Vitis,Restaurant,75015,"8, rue Falguière",48.8438106,2.3171654000000217,+33 1 42 73 07 02,De 16 à 35 €,Bistrot,Terroir,Bar à vins / Cave à manger
+Holiday Café,Restaurant,75016,"192, av. de Versailles",48.8392598,2.2610644000000093,+33 1 42 24 90 21,De 36 à 50 €,Café / Coffee Shop,Néobistrot,Snack / Tartes / Salades / Soupes / Bols
+Jium,Restaurant,75015,"26, rue Tiphaine",48.8486977,2.296633199999974,+33 1 45 75 20 00,De 16 à 35 €,Asiatique,Coréen,
+Le Nom m’échappe,Restaurant,75002,"28, rue Notre-Dame-des-Victoires",48.8679605,2.3418858,+33 9 82 20 20 41,De 16 à 35 €,Bistrot,Bar à vins / Cave à manger,
+Papillon,Restaurant,75017,"8, rue Meissonier",48.8834223,2.30475279999996,+ 33 1 56 79 81 88,Plus de 51 €,Cuisine d'auteur,Néobistrot,
+Jòia,Restaurant,75002,"39, rue des Jeûneurs",48.8697224,2.3434919000000036,+33 1 40 20 06 06,De 36 à 50 €,Bistrot,,
+Grive ,Restaurant,75011,"18, rue Bréguet",48.8572682,2.3731606000000056,+33 1 43 55 53 93,De 36 à 50 €,Bistrot,Bar à vins / Cave à manger,
+Betty Beef,Restaurant,32230,Lapèze,43.559349,0.22835299999997005,+33 5 62 06 18 23,De 16 à 35 €,Bistrot,Viandes / Grillades,Terroir
+L'Essentiel,Restaurant,64500,"4, rue Vincent Barjonnet",43.3917572,-1.6599919999999884,+33 5 47 02 41 47,De 16 à 35 €,Cuisine d'auteur,Cuisine du marché,Néobistrot
+Saisons,Restaurant,13006,"8, rue Sainte-Victoire",43.2865896,5.38282270000002,+33 9 51 89 18 38,De 36 à 50 €,Cuisine d'auteur,Cuisine du marché,Néobistrot
+Colchide ,Restaurant,75018,"97, rue des Poissonniers",48.8926232,2.352080399999977,+33 9 80 94 09 68,De 16 à 35 €,Géorgien,,
+Auberge de la Tourre,Restaurant,48260,Le bourg,44.64639409999999,3.1064053,+33 4 66 45 68 73,De 16 à 35 €,Cuisine du marché,Terroir,
+Kodawari Yokocho ,Restaurant,75006,"29, rue Mazarine",48.8546579,2.338127100000065,+ 33 9 70 91 12 41,De 16 à 35 €,Japonais,,
+Yard,Restaurant,75011,"6, rue de Mont-Louis",48.8581389,2.3883164999999735,+ 33 1 40 09 70 30,De 16 à 35 €,Néobistrot,Bar à vins / Cave à manger,
+Chez Lanchois,Restaurant,34200,"9, rue d’Amsterdam",43.4215944,3.7029675999999654,+33 9 82 36 87 76,De 16 à 35 €,Poissons et fruits de mer,,
+Gramme,Restaurant,75003,"86, rue des Archives",48.86306279999999,2.360760199999959,+33 9 50 92 20 23,Moins de 15 €,Café / Coffee Shop,Snack / Tartes / Salades / Soupes / Bols,
+Cuisine,Restaurant,75009,"50, rue Condorcet",48.8804875,2.343314599999985,+33 1 44 63 75 64,De 16 à 35 €,Néobistrot,Bar à vins / Cave à manger,
+Early June,Restaurant,75010,19 Rue Jean Poulmarch,48.87291459999999,2.363441200000011,+33142854074,De 16 à 35 €,Bar à vins / Cave à manger,,
+Babel Babel,Restaurant,06300,"2, cité du Parc",43.6951696,7.275803799999949,,De 16 à 35 €,Méditerranéen,Lèche-doigts,
+Ginkgo,Restaurant,13009,"3, av. Frédéric-Le-Play ",43.2432074,5.400810099999944,,De 16 à 35 €,Cuisine du marché,,
+Maynats,Restaurant,64000,"3, rue du Hédas",43.2963532,-0.3724998999999798,+33 5 59 27 68 65 ,De 36 à 50 €,Cuisine d'auteur,Terroir,
+Mama,Restaurant,84660,"2, traverse de l'Épicerie",43.84410279999999,5.139867099999947,+33 4 90 76 23 59,De 16 à 35 €,Biocool,Cuisine du marché,
+Chez Davia,Restaurant,06000,"11 bis, rue Grimaldi",43.6990675,7.264729699999975,+33 4 93 87 91 39,De 36 à 50 €,Bistrot,Terroir,
+La Savie,Restaurant,24220,La Savie ,44.91365199999999,1.068208000000027,+33 9 83 58 59 15,De 36 à 50 €,Cuisine du marché,Terroir,
+Le Maquis,Restaurant,75018,"53, rue des Cloÿs",48.8931361,2.3372633999999834,+33 1 42 58 87 82,De 16 à 35 €,Bistrot,Cuisine du marché,
+Le Saint Hubert,Restaurant,84490,"1, pl. de la Fraternité",43.9429263,5.382606200000055,+33 4 90 75 42 02,De 16 à 35 €,Cuisine du marché,,
+Les Bords de Mer,Restaurant,13007,"52, corniche Président John Fitzgerald Kennedy",43.2895903,5.35499870000001,+33 4 13 94 34 00,De 36 à 50 €,Asiatique,Néobistrot,
+Yoshinori,Restaurant,75006,"18, rue Grégoire de Tours",48.8530078,2.3377113999999892,+33 9 84 19 76 05,De 36 à 50 €,Cuisine d'auteur,Néobistrot,
+Dumbo,Restaurant,75009,"64, rue Jean-Baptiste Pigalle",48.8816541,2.3369591000000582,,Moins de 15 €,Burgers,,
+Maison Geney ,Restaurant,13002,"38, rue Caisserie",43.2969766,5.3673486999999795,+33 4 91 52 44 82,Moins de 15 €,Café / Coffee Shop,Salon de thé / Pâtisserie,Snack / Tartes / Salades / Soupes / Bols
+Rusidda,Restaurant,75003,"1, rue Borda",48.8660764,2.357429400000001,+ 33 9 86 47 54 74,De 16 à 35 €,Italien,,
+Bar à Momos ,Restaurant,75012,"218, rue du Faubourg Saint-Antoine",48.8495649,2.3870848999999907,+33 1 43 72 89 82,Moins de 15 €,Lèche-doigts,Tibétain,
+Pizzou,Restaurant,75009,"28, rue de Douai",48.8825795,2.3329356000000416,+33 1 74 64 50 10,De 16 à 35 €,Italien,Pizzas,
+Ngoc Xuyen Saigon ,Restaurant,75013,"4, rue Caillaux ",48.82290320000001,2.361775800000032,+33 1 44 24 14 31,Moins de 15 €,Asiatique,Vietnamien,
+Sucrépice,Restaurant,75005,"5, rue d'Arras",48.84736669999999,2.351738100000034,+33 1 72 67 11 74,Moins de 15 €,Chinois,,
+Tounsia,Restaurant,75010,"55, rue de Paradis",48.8755834,2.3487668000000212,,De 16 à 35 €,Lèche-doigts,Tunisien,
+SAaM,Restaurant,75010,"59 bis, rue de Lancry",48.8721942,2.3626411999999846,+33 9 83 50 84 94 ,Moins de 15 €,Coréen,Taïwanais,Lèche-doigts
+Shinjuku,Restaurant,75009,"52, rue Condorcet",48.88030209999999,2.34318559999997,+33 1 42 06 18 14,De 16 à 35 €,Japonais,,
+Providence,Restaurant,64210,"548, avenue du Général de Gaulle",43.424885,-1.6087986,+33 9 72 83 44 60,De 16 à 35 €,Biocool,Cuisine d'auteur,Cuisine du marché
+Yam’Tcha,Restaurant,75001,"121, rue Saint-Honoré",48.86141569999999,2.341659599999957,+33 1 40 26 08 07,Plus de 51 €,Cuisine d'auteur,,
+Jin Saint-Honoré,Restaurant,75001,"6, rue de la Sourdière",48.86536779999999,2.331854900000053,+33 1 42 61 60 71,Plus de 51 €,Asiatique,Japonais,Sushis
+Edgar,Restaurant,75002,"31, rue d'Alexandrie",48.8681109,2.349944300000061,+33 1 40 41 05 69,De 16 à 35 €,Poissons et fruits de mer,Néobrasserie,
+Monsieur K,Restaurant,75002,"10, rue Marie-Stuart",48.8651363,2.347827999999936,+33 1 42 36 01 09,De 16 à 35 €,Thaïlandais,,
+Capitaine,Restaurant,75004,"4, impasse Guéménée",48.8539878,2.3658242999999857,+ 33 1 44 61 11 76,Plus de 51 €,Cuisine d'auteur,Néobistrot,
+L'Avant-Comptoir de la Terre,Restaurant,75006,"3, carrefour de l’Odéon",48.8520358,2.3388124000000516,+33 1 44 27 07 50,De 16 à 35 €,Sud-Ouest,Terroir,Planches / Assiettes froides
+Faggio Osteria,Restaurant,75009,"75, rue de Rochechouart",48.881484,2.346326900000008,+33 1 40 36 06 22,De 16 à 35 €,Bistrot,Italien,
+Maison de la Culture Arménienne ,Restaurant,75009,"17, rue Bleue",48.875804,2.34608819999994,+33 1 48 24 63 89,Moins de 15 €,Arménien,,
+Délices de Qingdao,Restaurant,75009,"3, rue de Budapest",48.876066,2.327609700000039,+33 1 48 78 96 19,De 16 à 35 €,Chinois,,
+Rose Bakery ,Restaurant,75009,46 Rue des Martyrs,48.8794614,2.340155399999958,+33 1 42 82 12 80,De 16 à 35 €,Biocool,Café / Coffee Shop,Salon de thé / Pâtisserie
+Hôtel Amour,Restaurant,75009,"8, rue de Navarin",48.87964299999999,2.339437099999941,+33 1 48 78 31 80,De 36 à 50 €,Café / Coffee Shop,Néobistrot,Néobrasserie
+Le Rigmarole,Restaurant,75011,"10, rue du Grand Prieuré",48.8652197,2.369255599999974,+33 1 71 24 58 44,De 36 à 50 €,Asiatique,Cuisine d'auteur,Néobistrot
+Le Petit Keller,Restaurant,75011,"13, rue Keller",48.8542825,2.376074600000038,+33 1 43 55 90 54,De 16 à 35 €,Japonais,Cuisine du marché,Néobistrot
+Sur Mer,Restaurant,75010,"53, rue de Lancry",48.8717101,2.362221599999998,+33 1 48 03 21 38,De 16 à 35 €,Poissons et fruits de mer,,
+Hana Bento,Restaurant,75010,"2, rue de Paradis",48.874482,2.355189399999972,+33 9 83 71 93 81,Moins de 15 €,Japonais,Lèche-doigts,
+Chameleon Restaurant,Restaurant,75010,"70, rue René-Boulanger ",48.86921700000001,2.358015499999965,+33 1 42 08 99 41,De 16 à 35 €,Cuisine d'auteur,Néobistrot,
+Ground Control,Restaurant,75012,"81-87, rue du Charolais  ",48.8439199,2.3815095999999585,Pas de téléphone ,Moins de 15 €,Lèche-doigts,,
+Les Rouquins,Restaurant,75014,"146, rue du Château",48.83412449999999,2.3221263000000363,+33 1 45 39 78 99,De 36 à 50 €,Cuisine du marché,Tapas,Planches / Assiettes froides
+Ken Kawasaki ,Restaurant,75018,"15, rue Caulaincourt",48.8872519,2.332868400000052,+33 9 70 95 98 32,Plus de 51 €,Japonais,Cuisine d'auteur,
+Ko ishi,Restaurant,13001,"25, rue Sainte",43.2924174,5.375677699999983,+33 4 91 04 64 10,Moins de 15 €,Japonais,,
+Guilo Guilo,Restaurant,75018,"8, rue Garreau",48.8859793,2.3371084999999994,+33 1 42 54 23 92,Plus de 51 €,Japonais,Cuisine d'auteur,
+Pages,Restaurant,75116,"4, rue Auguste-Vacquerie",48.8709292,2.2961456000000453,+33 1 47 20 74 94,Plus de 51 €,Cuisine d'auteur,,
+Caffè Stern,Restaurant,75002,"47, passage des Panoramas",48.8709043,2.3415253000000575,+33 1 75 43 63 10,Plus de 51 €,Café / Coffee Shop,Italien,
+Balagan,Restaurant,75001,"9, rue d'Alger",48.8654671,2.3296697000000677,+33 1 40 20 72 14,De 36 à 50 €,Méditerranéen,Israélien,
+Bagnard Saintonge ,Restaurant,75003,"58, rue de Saintonge",48.863197,2.36429720000001,+33 1 55 43 90 47,De 16 à 35 €,Casse-croûte,Cuisine du marché,Méditerranéen
+Le Sot l'y Laisse,Restaurant,75011,"70, rue Alexandre-Dumas",48.8541035,2.395441900000037,,De 36 à 50 €,Bistrot,Cuisine d'auteur,
+Café Mirabelle,Restaurant,75011,"16, rue La-Vacquerie",48.85840719999999,2.384987899999942,+33 1 43 79 27 46,De 16 à 35 €,Café / Coffee Shop,Salon de thé / Pâtisserie,
+Le Bon Saint Pourçain,Restaurant,75006,"10 bis, rue Servandoni",48.8500391,2.334594299999935,+33 1 42 01 78 24 ,Plus de 51 €,Bistrot,Cuisine du marché,
+Biondi,Restaurant,75011,"118, rue Amelot",48.8638315,2.3671143999999913,+33 1 47 00 90 18,De 36 à 50 €,Argentin,Néobistrot,
+Etsi,Restaurant,75018,"23-25, rue Eugène Carrière",48.8903736,2.3328923999999915,+ 33 1 71 50 00 80,De 16 à 35 €,Tapas,Grec,Méditerranéen
+Nhà-Quê,Restaurant,75011,"20, rue du Général-Guilhem",48.8620075,2.3796095999999807,+33 1 43 57 63 60,De 16 à 35 €,Asiatique,Vietnamien,
+Agrology,Restaurant,75012,"15, rue de Prague",48.84978659999999,2.3757074000000102,+33 1 58 51 05 49,De 16 à 35 €,Bar à vins / Cave à manger,,
+MandooBar,Restaurant,75008,"7, rue d'Edimbourg",48.8793433,2.3210914000000002,+33 1 55 06 08 53,De 16 à 35 €,Coréen,,
+Le Verre Volé,Restaurant,75010,"67, rue de Lancry",48.8728371,2.36343260000001,+33 1 48 03 17 34,De 36 à 50 €,Bistrot,Bar à vins / Cave à manger,
+Boucherie Les Provinces,Restaurant,75012,"20, rue d’Aligre",48.8492775,2.3785976000000346,+33 1 43 43 91 64,De 16 à 35 €,Bistrot,Viandes / Grillades,
+L'Ourcine,Restaurant,75013,"92, rue Broca",48.8358352,2.346438199999966,+33 1 47 07 13 65,De 36 à 50 €,Bistrot,Cuisine d'auteur,Cuisine du marché
+Brasserie Thoumieux,Restaurant,75007,"79, rue Saint-Dominique",48.8597648,2.308668500000067,+33 1 47 05 79 00,Plus de 51 €,Néobrasserie,,
+Jin Xin Lou,Restaurant,75013,63 Rue de l'Amiral Mouchez,48.82176399999999,2.342424199999982,+33 1 53 80 27 89,De 16 à 35 €,Cuisine d'auteur,,
+Le Garde-Manger,Restaurant,75017,"8, rue Meissonnier",48.8834223,2.30475279999996,+33 9 67 12 81 88,De 16 à 35 €,Sandwichs / Bagels,Lèche-doigts,
+Comice,Restaurant,75016,"31, avenue de Versailles",48.849433,2.2762490999999727,+33 1 42 15 55 70,Plus de 51 €,Cuisine d'auteur,,
+Non Solo Cucina,Restaurant,75016,"135, rue du Ranelagh",48.8563507,2.2668482000000267,+33 1 45 27 99 93,Plus de 51 €,Italien,,
+Olive et Artichaut ,Restaurant,06300,"6, rue Sainte-Réparate",43.6964432,7.27600510000002,+33 4  89 14 97 51,De 36 à 50 €,Bistrot,Cuisine du marché,Méditerranéen
+La Part des Anges,Restaurant,06000,"17, rue Gubernatis",43.70052750000001,7.272408899999959,+33 4 93 62 69 80,De 16 à 35 €,Bar à vins / Cave à manger,,
+Da Laura,Restaurant,06400,"8, rue du 24-Août",43.55296999999999,7.019362600000022,+33 4 93 38 40 51,De 36 à 50 €,Italien,,
+Au Pont Corbeau,Restaurant,67000,"21, quai Saint-Nicolas",48.5789478,7.7503028999999515,+ 33 3 88 35 60 68,De 16 à 35 €,Alsacien,Terroir,Bar à vins / Cave à manger
+La Hache ,Restaurant,67000,"11, rue de la Douane ",48.5794334,7.74917789999995,+33 3 88 32 34 32,De 16 à 35 €,Néobrasserie,,
+Bacaretto,Restaurant,14600,"44, rue de la Chaussée",49.4185001,0.23344240000005811,+33 2 31 14 83 11,De 16 à 35 €,Terroir,Bar à vins / Cave à manger,
+Äponem,Restaurant,34320,"1, rue de l'Eglise",43.5544538,3.2985283000000436,+33 4 67 24 76 49,De 36 à 50 €,Cuisine d'auteur,,
+L’ATELIER DES 4 GOURMETS,Restaurant,74940,"16, rue Jean-Mermoz",45.9184806,6.144208599999956,+33 4 50 23 70 41,De 16 à 35 €,Italien,,
+L’Hostellerie de Goujounac,Restaurant,46250,Le Bourg,44.576463,1.1966850000000022,+33 5 65 36 68 67,De 16 à 35 €,Biocool,Bistrot,Cuisine du marché
+La Mutinerie,Restaurant,69006,"123, rue Bugeaud ",45.7670725,4.854423399999973,+33 4 72 74 91 51,De 36 à 50 €,Cuisine d'auteur,Néobistrot,
+La Bonne Mère,Restaurant,13006,"16, rue Fort-du-sanctuaire",43.2830839,5.373719299999948,+33 4 91 58 22 05,Moins de 15 €,Italien,Pizzas,
+Les Vieilles Canailles,Restaurant,13100,"7, rue Isolette",43.5274151,5.446357700000021,+33 4 42 91 41 75,De 36 à 50 €,Bistrot,Cuisine du marché,Bar à vins / Cave à manger
+Célestin,Restaurant,11100,"3, pl. Lamourguier",43.1810945,3.0036830999999893,+33 4 68 27 55 78,De 16 à 35 €,Cuisine du marché,Bar à vins / Cave à manger,
+La Nautique,Restaurant,11100,"12, rue des Nautiquards",43.1429233,3.00656749999996,+ 33 4 68 91 53 73,De 16 à 35 €,Bistrot,Café / Coffee Shop,Poissons et fruits de mer
+L’Epicerie du Cloître ,Restaurant,13200,"22, rue du Cloître",43.6759956,4.628536800000006,+33 4 88 09 10 10 ,De 16 à 35 €,Tapas,,
+La Cantine de Robert ,Restaurant,11000,"39, rue Coste-Reboulh",43.2131734,2.3542042000000265,+ 33 4 68 47 37 80,Plus de 51 €,Terroir,,
+La Boîte à Sardine,Restaurant,13001,"2, bd de la Libération",43.2991964,5.386177800000041,+33 4 91 50 95 95,De 16 à 35 €,Poissons et fruits de mer,,
+Oliviera,Restaurant,06300,"8 bis, rue du Collet",43.6981842,7.277319600000055,+33 4 93 13 06 45,De 36 à 50 €,Méditerranéen,Terroir,
+Café de Max,Restaurant,06000,"4, rue Paul-Déroulède",43.7011416,7.267119099999945,+33 9 54 73 44 20,Moins de 15 €,Café / Coffee Shop,Snack / Tartes / Salades / Soupes / Bols,Végétarien
+Epicerie L’Idéal,Restaurant,13001,"11, rue d'Aubagne",43.2958049,5.379091000000017,+33 9 80 39 99 41,De 16 à 35 €,Casse-croûte,Méditerranéen,
+Château La Coste  ,Restaurant,13610,"2750, route de la Cride",43.63601999999999,5.419402999999988,+33 4 42 61 89 98,Plus de 51 €,Ferme-auberge,Viandes / Grillades,
+Chez Remise,Restaurant,15110,Le Bourg,44.6980543,3.0034200000000055,+33 4 71 23 20 02,De 16 à 35 €,Bistrot,Café / Coffee Shop,Auvergnat
+Ferme Campo di Monte,Restaurant,20239,Ferme Campo Di Monte,42.57652410000001,9.337976600000047,+33 4 95 37 64 39 ,Plus de 51 €,Ferme-auberge,Corse,Terroir
+Crêperie des Promenades,Restaurant,22000,"18, rue des Promenades",48.5134671,-2.7577291999999716,+33 2 96 33 23 65,De 16 à 35 €,Crêperie,,
+Le Tire-Bouchon,Restaurant,13006,"11, cours Julien",43.295247,5.382974999999988,+33 4 13 25 36 78,De 16 à 35 €,Bar à vins / Cave à manger,,
+Georges,Restaurant,13005,"115, bd Chave",43.2955314,5.393854099999999,+33 9 84 30 53 28,De 16 à 35 €,Bistrot,Cuisine du marché,
+Le P'tit Rouquin,Restaurant,79000,"92, rue de la Gare",46.3197977,-0.4562644999999999,+33 5 49 24 05 34,De 16 à 35 €,Bistrot,Cuisine du marché,
+La Part des Anges,Restaurant,17670,"42, Grande Rue",46.194199,-1.42535840000005,+33 5 46 29 83 62,Moins de 15 €,Bistrot,Bar à vins / Cave à manger,
+Restaurant Serge Voisin ,Restaurant,30900,"5, rue Jean-Reboul",43.8342912,4.358093499999995,+33 6 17 47 66 85,De 16 à 35 €,Bistrot,,
+"André, Histoire(s) de Cuisine ",Restaurant,26000,"285, av. Victor-Hugo",44.9176569,4.885530000000017,+33 4 75 44 15 32,De 36 à 50 €,Cuisine d'auteur,Néobistrot,
+Le Barbacane,Restaurant,32700,"1, rue Barbacane",43.9342454,0.6248765000000276,+ 33 5 81 68 13 90,De 16 à 35 €,Café / Coffee Shop,Cuisine du marché,Bar à vins / Cave à manger
+Le Mangevins,Restaurant,26600,"7, rue des Herbes",45.0699117,4.837009099999932,+ 33 4 75 08 00 76,De 16 à 35 €,Néobistrot,Bar à vins / Cave à manger,
+Les Halles Auberge,Restaurant,30000,"5, rue des Halles",43.8397369,4.358846900000003,+33 4 66 21 96 70,Moins de 15 €,Terroir,,
+Allium,Restaurant,29000,"88, bd de Créac'h Gwen",47.9760618,-4.09825109999997,+33 2 98 10 11 48,Plus de 51 €,Cuisine d'auteur,Néobistrot,
+Globulle rouge,Restaurant,29200,"27, rue Emile-Zola",48.38567459999999,-4.489599999999996,+33 2 98 33 38 03,De 16 à 35 €,Bistrot,Bar à vins / Cave à manger,
+La Pente Douce ,Restaurant,31000,"6, rue de la Concorde",43.611246,1.4444317999999612,+33 5 61 46 16 91,De 16 à 35 €,Cuisine d'auteur,Cuisine du marché,
+La Co(o)rniche ,Restaurant,33115,"46, av. Louis-Gaume",44.6015009,-1.2100355999999692,+33 5 56 22 72 11,De 36 à 50 €,Poissons et fruits de mer,Néobrasserie,
+Sézanne,Restaurant,68000,"30, Grand’Rue",48.0767904,7.35957099999996,+33 3 89 41 55 94,De 16 à 35 €,Cuisine du marché,Terroir,Planches / Assiettes froides
+El Taco del Diablo,Restaurant,33000,"87, rue Lagrange (cantine)",44.8524653,-0.5810934999999517,+33 6 07 15 04 08 (food truck),Moins de 15 €,Mexicain,Lèche-doigts,
+Place Mage,Restaurant,31000,"2, rue Tolosane",43.5984902,1.4471654000000171,+33 5 62 26 39 64 ,De 16 à 35 €,Cuisine du marché,Néobistrot,
+La Petite Ménagerie,Restaurant,,"1 bis, rue du Pont-Saint-Pierre",43.6010229,1.4339598999999907,+33 9 73 21 92 33,Moins de 15 €,Asiatique,Biocool,Vietnamien
+Ferme-Auberge du Huss,Restaurant,,Route des crêtes ,47.979273,6.982071700000006,+33 3 89 82 27 20,De 16 à 35 €,Alsacien,Terroir,
+La Cabane d'Hortense,Restaurant,33970,Rue des Tamaris,44.6422489,-1.2462547999999742,+33 5 56 03 26 74,De 16 à 35 €,Poissons et fruits de mer,,
+Otonali,Restaurant,35400,"6, rue de l'Orme",48.6480979,-2.025156000000038,+ 33 2 23 18 76 81,De 16 à 35 €,Japonais,Bar à vins / Cave à manger,Table d'hôte
+Flocons de Sel,Restaurant,74120,"1775, route du Leutaz",45.8302062,6.596874500000013,+33 4 50 21 49 99,Plus de 51 €,Cuisine d'auteur,,
+Ima,Restaurant,35000,"20, bd de la Tour d’Auvergne",48.1068024,-1.68468299999995,+33 2 23 47 82 74,Plus de 51 €,Cuisine d'auteur,Néobistrot,
+Bàcaro,Restaurant,31500,"20, rue du Pont-Guilhemery",43.6011433,1.4573841999999786,,De 16 à 35 €,Cuisine d'auteur,Cuisine du marché,Néobistrot
+Court la Vigne,Restaurant,43100,Le Bourg,45.262086,3.453980999999999,,De 16 à 35 €,Biocool,Bistrot,
+Pimpon,Restaurant,34000,"4, pl. des Beaux-Arts",43.6156452,3.8813404999999648,+33 4 34 00 66 02,De 16 à 35 €,Cuisine du marché,,
+Bo Bun,Restaurant,36000,"56, rue Ledru-Rollin",46.8106448,1.6949202000000696,,Moins de 15 €,Asiatique,Vietnamien,
+En Pleine Nature,Restaurant,31130,"6, pl. de la Mairie",43.5852405,1.529165599999942,+33 5 61 45 42 12,De 36 à 50 €,Cuisine d'auteur,Cuisine du marché,
+Le Café Contemporain ,Restaurant,37000,Jardin François Ier,47.39571,0.6854200000000219,+33 2 47 66 50 00 ,De 16 à 35 €,Casse-croûte,Café / Coffee Shop,Cuisine du marché
+La Baratte,Restaurant,38000,"6, pl. Championnet",45.18563710000001,5.722307499999943,+33 4 76 43 86 48 ,De 16 à 35 €,Bistrot,Cuisine du marché,Bar à vins / Cave à manger
+Pertica,Restaurant,41100,"15, place de la République",47.7910631,1.0677177000000029,+33 2 54 23 72 02,De 36 à 50 €,Cuisine d'auteur,Néobistrot,
+Le Petit Moulin,Restaurant,46600,Rue Droite,44.936373,1.6087350000000242,,De 16 à 35 €,Bistrot,Terroir,Bar à vins / Cave à manger
+Le Bistrot des Claquets,Restaurant,39600,"33, rue de Faramand",46.9009791,5.772421399999985,+33 3 84 66 04 19,Moins de 15 €,Cuisine du marché,Bar à vins / Cave à manger,
+La Petite Cuisine,Restaurant,37000,"45, rue Voltaire",47.3951777,0.6890776999999844,+33 2 47 61 30 92,De 16 à 35 €,Cuisine du marché,Néobistrot,
+QG,Restaurant,37000,"19, pl. du Grand-Marché",47.3937187,0.680371599999944,+33 2 47 61 49 29,De 16 à 35 €,Bistrot,Cuisine du marché,
+L'Amateur de Thés,Restaurant,64000,"1, rue de la République",43.2991024,-0.36848350000002483,+ 33 5 59 32 81 06,De 36 à 50 €,Japonais,Néobistrot,Salon de thé / Pâtisserie
+Sébastopol,Restaurant,59000,"1, place Sébastopol",50.628867,3.059011000000055,+33 3 20 13 13 38,De 36 à 50 €,Cuisine d'auteur,Néobistrot,Terroir
+Un Brin Folk,Restaurant,49100,"26, rue du Mail",47.4742445,-0.5523872999999639,+33 2 44 85 58 04,Moins de 15 €,Pizzas,,
+Dano,Restaurant,64200,"22, rue Harispe",43.4736522,-1.5657784999999649,+33 5 59 43 82 27,Moins de 15 €,Salon de thé / Pâtisserie,Terroir,Sandwichs / Bagels
+Saline Ceviche Bar,Restaurant,64200,"62, rue Gambetta",43.4794962,-1.5642159999999876,+33 5 59 43 65 98 ,De 16 à 35 €,Poissons et fruits de mer,,
+Les Papilles Insolites,Restaurant,64000,"5, rue Alexander-Taylor",43.2976691,-0.36825199999998404,+33 5 59 71 43 79,Moins de 15 €,Tapas,Lèche-doigts,
+Au Gré du Vin,Restaurant,59800,"20, rue au Péterinck",50.6410706,3.0615050999999767,+33 3 20 55 42 51,De 16 à 35 €,Terroir,Planches / Assiettes froides,Bar à vins / Cave à manger
+Le Bistrot du Trinquet de Maïtena,Restaurant,64500,"42, rue du Midi",43.3891889,-1.6589714000000413,+33 5 59 26 05 13,De 16 à 35 €,Bistrot,Cuisine du marché,Terroir
+Istrenn Passion,Restaurant,56470,Les Presses,47.5830294,-3.015355600000021,+33 2 97 55 19 01,De 16 à 35 €,Poissons et fruits de mer,,
+La Ferme de Victorine ,Restaurant,73590,Le Planay,45.8054324,6.551263699999936,+33 4 79 31 63 46,De 36 à 50 €,Ferme-auberge,Terroir,
+Le Komptoir des Amis,Restaurant,64500,"7, bd du Commandant-Passicot",43.3864873,-1.6603119000000106,+33 5 59 23 47 59,De 16 à 35 €,Néobistrot,Table d'hôte,
+Le Passe Temps,Restaurant,69006,"52, rue Tronchet",45.7699478,4.84948600000007,+33 4 72 82 90 14,De 36 à 50 €,Néobistrot,,
+Etxe Nami,Restaurant,64500,"11, av. Jaureguiberry",43.3873182,-1.6592762999999877,+ 33 5 59 85 51 47,De 16 à 35 €,Asiatique,Biocool,Japonais
+Le Vin des Vivants,Restaurant,69001,"6, pl. Fernand-Rey",45.769089,4.8294349999999895,,De 16 à 35 €,Planches / Assiettes froides,Bar à vins / Cave à manger,
+Kitchen Ter(re),Restaurant,75005,"26, boulevard Saint-Germain",48.8496179,2.353134100000034,+33 1 42 39 47 48,De 36 à 50 €,Cuisine d'auteur,Néobistrot,
+Neni,Restaurant,75010,"12, bd de Denain",48.8795258,2.354939800000011,+33 1 42 80 82 34,De 36 à 50 €,Israélien,Balkanique,
+Presqu'Île,Restaurant,75007,"57, rue de Bellechasse",48.85507579999999,2.320126899999991,,De 16 à 35 €,Poissons et fruits de mer,,
+Pilgrim,Restaurant,75015,8 Rue Nicolas Charlet,48.8425052,2.313895099999968,+ 33 1 40 29 09 71,Plus de 51 €,Cuisine d'auteur,Néobistrot,
+Hanoï Corner,Restaurant,75009,"7, rue Blanche",48.8776569,2.3318355999999767,,Moins de 15 €,Vietnamien,Café / Coffee Shop,Lèche-doigts
+Belliou La Fumée,Restaurant,73700,Pré-Saint-Esprit,45.5824589,6.834003299999949,+33 4 79 07 29 13,Plus de 51 €,Terroir,,
+La Cagette,Restaurant,33000,"8, pl. du Palais",44.8382067,-0.5694785000000593,+33 9 80 53 84 35,De 16 à 35 €,Néobistrot,Snack / Tartes / Salades / Soupes / Bols,
+Desi Road ,Restaurant,75006,"14, rue Dauphine",48.8556872,2.339901999999938,+33 1 43 26 44 91,De 16 à 35 €,Indien / Pakistanais / Sri-lankais,,
+Raviolis Nord-Est Saint-Denis ,Restaurant,75001,"115, rue Saint-Denis",48.8628475,2.349533299999962,+ 33 9 81 17 19 08,Moins de 15 €,Asiatique,Chinois,
+Mingway,Restaurant,93500,"1, rue Victor Hugo",48.89557079999999,2.4020020000000386,+33 6 05 95 06 98,Moins de 15 €,Néobistrot,Sandwichs / Bagels,Bar à vins / Cave à manger
+Goguette,Restaurant,75011,"108, rue Amelot",48.8630232,2.367425599999933,+33 9 54 74 16 36,De 16 à 35 €,Bistrot,Bar à vins / Cave à manger,
+La Ferme de la Ruchotte,Restaurant,21360,La Ruchotte,47.0943106,4.7094916,+33 3 80 20 04 79,De 36 à 50 €,Biocool,Ferme-auberge,Terroir
+"Fulgurances, en face",Restaurant,75011,"5, rue Alexandre-Dumas",48.8529714,2.389381299999968,+33 1 45 68 92 52,De 16 à 35 €,Planches / Assiettes froides,Bar à vins / Cave à manger,
+La Merenda,Restaurant,06300,"4, rue Raoul-Bosio",43.6964559,7.2731676,Pas de téléphone,De 36 à 50 €,Bistrot,Cuisine du marché,Provençal
+Cheval d'Or,Restaurant,75019,"21, rue de la Villette",48.8757064,2.3873234999999795,,De 36 à 50 €,Asiatique,Chinois,Néobistrot
+Willette,Restaurant,75009,"21, rue de Trévise",48.8739029,2.345223799999985,+33 9 83 48 10 87,De 16 à 35 €,Bistrot,,
+Ima Cantine,Restaurant,75010,"39, quai de Valmy",48.8692962,2.366275299999984,+33 1 40 36 41 37,De 16 à 35 €,Café / Coffee Shop,Méditerranéen,Snack / Tartes / Salades / Soupes / Bols
+Il Brigante,Restaurant,75018,"14, rue du Ruisseau",48.8921354,2.340116099999932,+33 1 44 92 72 15,De 16 à 35 €,Italien,Pizzas,
+Le Garde Champêtre,Restaurant,10250,50 Route des Riceys,47.9872853,4.474123200000008,+33 3 25 29 44 61,De 16 à 35 €,Biocool,Néobistrot,Terroir
+D'une île,Restaurant,61110,Lieu-dit L'Aunay,48.4627866,0.7901051000000052,+33 2 33 83 01 47,De 36 à 50 €,Table d'hôte,,
+Papilles,Restaurant,75009,"77, rue de Rochechouart",48.8816545,2.346405799999957,+33 9 50 78 16 32,De 16 à 35 €,Café / Coffee Shop,Salon de thé / Pâtisserie,
+Augustin Marchand d'Vins,Restaurant,75006,"26, rue des Grands-Augustins",48.85365969999999,2.340164200000004,+33 9 81 21 76 21,De 16 à 35 €,Bar à vins / Cave à manger,,
+PNY Marais,Restaurant,75003,"1, rue Perrée",48.8637826,2.3625885000000153,+33 9 83 78 69 34,De 16 à 35 €,Burgers,Lèche-doigts,
+Les Mauvaises Herbes ,Restaurant,89100,"56, rue du Général-de-Gaulle",48.1926942,3.282846100000029,+ 33 3 86 97 13 84,De 16 à 35 €,Cuisine du marché,Bar à vins / Cave à manger,
+Les 3 Journées ,Restaurant,66000,"26, rue des Trois Journées",42.6993353,2.896338499999956,+33 04 11 63 83 05,De 16 à 35 €,Bistrot,,
+Shin-Ya Ramen ,Restaurant,31400,"98, Grande-Rue Saint-Michel",43.5899299,1.4459524000000101,+33 9 72 86 61 90,Moins de 15 €,Asiatique,Japonais,
+Simone et Paulette,Restaurant,13200,"21, rue du Pont",43.6774316,4.624238099999957, +33 9 83 36 15 14,De 16 à 35 €,Cuisine du marché,Sandwichs / Bagels,
+"L'Anversis, Table de Montagne ",Restaurant,39310,"239, chemin de l'Anversis",46.4030065,5.991245100000015,+33 3 84 41 20 91,De 16 à 35 €,Terroir,,
+L'Œnosphère,Restaurant,67000,"33, rue de Zurich",48.5803884,7.756644800000004,+33 3 88 36 10 87,Moins de 15 €,Alsacien,Terroir,Bar à vins / Cave à manger
+Gaya,Restaurant,75007,"6, rue de Saint-Simon ",48.8565779,2.323986800000057,+33 1 45 44 73 73,Plus de 51 €,Cuisine d'auteur,Néobistrot,Poissons et fruits de mer
+Yansai ,Restaurant,75017,"47, rue des Moines",48.8899963,2.3203906999999617,+33 1 46 27 73 86,Moins de 15 €,Asiatique,Coréen,
+Café Ineko ,Restaurant,75003,"13, rue des Gravilliers",48.8635759,2.3572993000000224,+33 9 67 87 23 10,De 16 à 35 €,Bistrot,Café / Coffee Shop,Cuisine du marché
+Clover Grill ,Restaurant,75001,"6, rue Bailleul",48.86101679999999,2.341934100000003,+ 33 1 40 41 59 59,Plus de 51 €,Néobistrot,Viandes / Grillades,
+Clover Green ,Restaurant,75007,"5, rue Perronet",48.85517840000001,2.330281600000035,+33 1 75 50 00 05,Plus de 51 €,Cuisine d'auteur,Néobistrot,
+Café Constant,Restaurant,75007,"139, rue Saint-Dominique",48.8581283,2.3016680000000633,+33 1 47 53 73 34,De 36 à 50 €,Bistrot,,
+Ancora Tu,Restaurant,75116,"6, rue de Chaillot",48.8667626,2.297078499999998,+33 1 47 20 26 92,De 16 à 35 €,Italien,,
+Les Cuistots Migrateurs,Restaurant,75018,128 av. de Saint-Ouen,48.89587,2.328578,+33 1 42 28 35 91,Moins de 15 €,Tapas,Méditerranéen,Syrien
+Mersea,Restaurant,75009,"6, rue du Faubourg-Montmartre",48.87189859999999,2.343369100000018,+ 33 9 73 22 46 13,De 16 à 35 €,Poissons et fruits de mer,Lèche-doigts,
+Raffinati,Restaurant,75018,"74 ter, rue de Clignancourt",48.88974409999999,2.3483942000000297,+ 33 9 83 54 57 29,De 16 à 35 €,Italien,Terroir,Bar à vins / Cave à manger
+Le Jourdain,Restaurant,75020,"101, rue des Couronnes",48.8722047,2.389227500000061,+33 1 43 66 29 10,De 16 à 35 €,Bistrot,,
+Mumi,Restaurant,75001,"14, rue Sauval",48.8620361,2.3425892000000204,+33 1 40 26 27 54,De 36 à 50 €,Cuisine d'auteur,,
+La Bourse et la Vie,Restaurant,75002,"12, rue Vivienne",48.8676204,2.3395636000000195,+33 1 42 60 08 83,Plus de 51 €,Bistrot,Café / Coffee Shop,
+Le Myrobolant,Restaurant,75011,"140, rue Saint-Maur",48.86856,2.374911099999963,+33 1 71 28 84 79,De 16 à 35 €,Bistrot,Cuisine du marché,Tapas
+Åke table & vin,Restaurant,75010,"15, rue Alibert",48.8716293,2.367228100000034,+33 1 42 08 79 60,De 16 à 35 €,Néobistrot,Suédois,Bar à vins / Cave à manger
+Chez Pépé Nicolas ,Restaurant,73440,D117,45.3053973,6.547583199999963,+33 6 09 45 28 35,De 36 à 50 €,Ferme-auberge,Terroir,
+Aux Crus de Bourgogne ,Restaurant,75002,"3, rue Bachaumont",48.8658229,2.3464375999999447,+33 1 42 33 48 24,De 36 à 50 €,Bistrot,,
+Balady,Restaurant,13001,"66, rue Consolat",43.300687,5.3884726,+33 9 80 99 21 03,Moins de 15 €,Méditerranéen,Salon de thé / Pâtisserie,Lèche-doigts
+Wadja,Restaurant,75006,"10, rue de la Grande-Chaumière",48.8423412,2.330701099999942,+33 1 46 33 02 02,De 36 à 50 €,Cuisine du marché,Néobistrot,
+La Bécane à Gaston,Restaurant,75010,"24, rue Lucien-Sampaix",48.8724579,2.3611859000000095,+33 9 80 73 22 98,De 16 à 35 €,Bistrot,Cuisine du marché,Viandes / Grillades
+Lamée,Restaurant,75008,"20 bis, rue La Boétie",48.8741976,2.3164500999999973,+33 1 84 25 70 90,Moins de 15 €,Sandwichs / Bagels,Lèche-doigts,
+Cravan,Restaurant,75016,"17, rue Jean-de-La-Fontaine",48.8516385,2.2738679000000275,+33 1 40 50 14 30,De 16 à 35 €,Café / Coffee Shop,Lèche-doigts,
+Massa,Restaurant,33000,"36, rue des Ayres",44.8368501,-0.5738132000000178,+33 5 47 47 89 42,Moins de 15 €,Méditerranéen,Végétarien,Sandwichs / Bagels
+Café des Alpes,Restaurant,26410,"2, pl. Pierre-Devoluy",44.6953419,5.48502899999994,+33475218791,De 16 à 35 €,Bistrot,Cuisine d'auteur,Cuisine du marché
+Poulpette,Restaurant,16100,"46, av. du Maréchal-de-Lattre-de-Tassigny",45.6998012,-0.33342579999998634,+33 5 45 82 22 08 ,De 36 à 50 €,Cuisine d'auteur,Cuisine du marché,Néobistrot
+Miznon Grands Boulevards,Restaurant,75009,"3, rue de la Grange Batelière",48.8728797,2.3425697999999784,+33 9 71 43 71 96,Moins de 15 €,Méditerranéen,Lèche-doigts,Israélien
+La Vierge,Restaurant,75020,"58, rue de la Réunion",48.8551624,2.4016291000000365,+33 1 43 67 51 15,De 16 à 35 €,Bistrot,Bar à vins / Cave à manger,
+Epoq,Restaurant,64200,"11, rue du Helder",43.4814574,-1.557862900000032,+33 9 88 09 68 12,De 16 à 35 €,Cuisine d'auteur,Néobistrot,Bar à vins / Cave à manger
+Jogging,Restaurant,13006,"103, rue Paradis",43.2891388,5.378682799999979,+33 4 91 81 44 94,De 16 à 35 €,Cuisine du marché,,
+Sausalito,Restaurant,75009,"80, rue de Maubeuge",48.8791629,2.348244300000033,+33 1 48 74 47 06,De 16 à 35 €,Bar à vins / Cave à manger,,
+Bierbuik,Restaurant,59800,"19, rue Royale",50.6393737,3.058170300000029,,Moins de 15 €,Terroir,,
+Racine,Restaurant,32700,"123, rue nationale",43.9350273,0.6181033999999954,+33 5 62 28 07 41 ,De 16 à 35 €,Cuisine d'auteur,Cuisine du marché,Néobistrot
+Bioburger,Restaurant,75002,"45, rue des Petits Carreaux",48.8682289,2.347356399999967,01 42 86 15 09,Moins de 15 €,Biocool,Burgers,
+Shabour,Restaurant,75002,"19, rue Saint-Sauveur",48.8659142,2.3490984999999682,,Plus de 51 €,Cuisine d'auteur,Méditerranéen,Israélien
+Frenchie,Restaurant,75002,"5, rue du Nil",48.8677099,2.3479182999999466,+33 1 40 39 96 19,Plus de 51 €,Cuisine d'auteur,Néobistrot,
+Oursin,Restaurant,75008,"60, av. des Champs-Élysées",48.8704642,2.306304800000021,+33 1 83 65 61 02,Plus de 51 €,Méditerranéen,,
+Liza / L de Liza,Restaurant,75002,"14, rue de la Banque",48.8675818,2.341026499999998,+33 1 55 35 00 66,De 36 à 50 €,Libanais,,
+Sando Club,Restaurant,75011,"1-3, passage Thiéré",48.8532372,2.3749477999999726,+ 33 9 82 59 50 33,Moins de 15 €,Café / Coffee Shop,Sandwichs / Bagels,
+Addommè,Restaurant,75003,"26, rue Notre Dame de Nazareth",48.867298,2.3599176999999827,+33 9 83 27 63 80,De 16 à 35 €,Italien,Pizzas,
+Bopome,Restaurant,75010,"48, rue de Lancry",48.8718855,2.3626481000000013,+33 9 83 74 60 24,Moins de 15 €,Taïwanais,Lèche-doigts,
+Pouzenc,Restaurant,75012,"67, rue de Charenton ",48.8502834,2.3737171999999873,+ 33 9 53 52 32 90,De 16 à 35 €,Bistrot,,
+Entre Deux Rives,Restaurant,75002,"1, rue de Hanovre",48.8701406,2.3357441000000563,+33 1 42 66 15 11,De 16 à 35 €,Asiatique,Vietnamien,
+Bob’s Bake Shop,Restaurant,75018,"Halle Pajol, 12, esplanade Nathalie-Sarraute",48.8886836,2.3630247999999483,+33 9 84 46 25 26,Moins de 15 €,Snack / Tartes / Salades / Soupes / Bols,Végétarien,Sandwichs / Bagels
+Supu Ramen,Restaurant,75006,"53, quai des Grands Augustins",48.8552496,2.3412839999999733,+33 1 43 25 45 94,De 16 à 35 €,Japonais,,
+Faggio Salumeria,Restaurant,75009,"72, rue de Rochechouart",48.881634,2.3466908999999987,+ 33 1 40 37 44 02,De 16 à 35 €,Bar à vins / Cave à manger,,
+Café lai'Tcha,Restaurant,75001,"7, rue du Jour",48.8636533,2.344082999999955,+33 01 40 26 05 05,De 36 à 50 €,Chinois,Cuisine d'auteur,
+LaLa,Restaurant,75002,"6, place des Victoires",48.866038,2.3406795999999304,+33 1 40 13 75 75,De 16 à 35 €,Café / Coffee Shop,Cuisine du marché,Salon de thé / Pâtisserie
+Johana’s Fish & Chips ,Restaurant,75002,"30, rue Saint-Sauveur",48.8663294,2.3476435999999694,+33 1 42 21 88 78,Moins de 15 €,Poissons et fruits de mer,Lèche-doigts,
+Hôtel des Grands Boulevards,Restaurant,75002,"17, boulevard Poissonnière",48.8709333,2.3448912000000064,+33 1 85 73 33 33,De 36 à 50 €,Italien,Néobistrot,
+Daroco,Restaurant,75002,"6, rue Vivienne",48.8672504,2.339061000000015,+33 1 42 21 93 71,De 36 à 50 €,Italien,Pizzas,Néobrasserie
+Dalmata,Restaurant,75002,"8, rue Tiquetonne",48.8644688,2.349424499999941,Pas de téléphone,De 16 à 35 €,Italien,Pizzas,
+Sushi B,Restaurant,75002,"5, rue Rameau",48.867702,2.3373794000000316,+33 1 40 26 52 87,Plus de 51 €,Japonais,Sushis,
+Les Papilles,Restaurant,75005,30 Rue Gay-Lussac,48.8445431,2.341672000000017,+33 1 43 25 20 79,De 36 à 50 €,Bistrot,Cuisine du marché,Bar à vins / Cave à manger
+Chez Simonne ,Restaurant,75008,8 Rue d'Artois,48.8725223,2.308647199999996,+33 1 53 75 15 52,Moins de 15 €,Snack / Tartes / Salades / Soupes / Bols,Sandwichs / Bagels,
+Walaku,Restaurant,75007,"33, rue Rousselet",48.8483064,2.3188557999999375,+33 1 56 24 11 02,Plus de 51 €,Japonais,,
+Pizzeria Bonvivant,Restaurant,75005,"4, rue des Ecoles",48.847823,2.3521385999999893,+ 33 9 80 38 96 98,De 16 à 35 €,Pizzas,,
+Panache,Restaurant,75009,"1, rue Geoffroy-Marie",48.8732922,2.3431931000000077,+ 33 1 47 70 85 87,De 36 à 50 €,Néobistrot,,
+Maison Lautrec,Restaurant,75009,"63, rue Jean-Baptiste-Pigalle",48.8811683,2.3358479999999417,+33 1 53 21 07 78,De 16 à 35 €,Néobistrot,Néobrasserie,
+Miss Banh-Mi,Restaurant,75002,"5, rue Mandar",48.86554169999999,2.3460867000000007,+33 9 86 21 32 21,Moins de 15 €,Asiatique,Vietnamien,Sandwichs / Bagels
+Litani,Restaurant,75010,"120, rue du Faubourg-Saint-Martin",48.8741919,2.358732199999963,+33 6 51 43 14 90,De 16 à 35 €,Libanais,,
+Super,Restaurant,75011,"43, rue Oberkampf",48.8645674,2.37179459999993,+33 1 47 00 06 34,De 16 à 35 €,Cuisine du marché,Table d'hôte,
+Deux fois plus de piment,Restaurant,75011,"33, rue Saint-Sébastien",48.861537,2.3705132999999705,+33 1 58 30 99 35,De 16 à 35 €,Asiatique,Chinois,
+Billili,Restaurant,75010,"136, rue du Faubourg-Poissonnière",48.8806409,2.350058699999977,+ 33 9 87 76 27 49,De 16 à 35 €,Bar à vins / Cave à manger,,
+Au Ciel,Restaurant,75011,"97, rue de Charonne",48.8545315,2.38337039999999,+33 1 43 72 19 08,De 16 à 35 €,Chinois,,
+Fleurs de Maï ,Restaurant,75013,"61, avenue de Choisy ",48.82305299999999,2.3621392000000014,+33 1 44 24 37 71,De 16 à 35 €,Asiatique,Chinois,
+Bistrotters ,Restaurant,75014,"9, rue Decrès",48.8327781,2.314876300000037,+33 1 45 45 58 59,De 36 à 50 €,Bistrot,Cuisine d'auteur,Terroir
+Les Petits Plats ,Restaurant,75014,"39, rue des Plantes",48.8285241,2.322067400000037,+33 1 45 42 50 52,De 36 à 50 €,Bistrot,Viandes / Grillades,Bar à vins / Cave à manger
+Origins 14 La Régalade ,Restaurant,75014,"49, av. Jean-Moulin",48.8249168,2.320348200000012,+33 1 45 45 68 58,De 36 à 50 €,Bistrot,Cuisine du marché,Terroir
+Naturellement ,Restaurant,75015,"33 bis, rue Mademoiselle",48.8437946,2.2967115999999805,+33 1 73 73 23 69,De 36 à 50 €,Cuisine du marché,Italien,Bar à vins / Cave à manger
+La Cantine du Troquet Dupleix,Restaurant,75015,"53, bd de Grenelle",48.8514023,2.292283600000019,+33 1 45 75 98 00,De 36 à 50 €,Bistrot,Café / Coffee Shop,Basque
+Radioeat,Restaurant,75016,"116, av. du Président Kennedy ",48.8524459,2.2784990999999764,+33 1 47 20 00 29,De 16 à 35 €,Néobistrot,,
+Holybelly 5,Restaurant,75010,"5, rue Lucien-Sampaix",48.8710377,2.3596155999999837,+33 1 82 28 00 80,De 16 à 35 €,Café / Coffee Shop,,
+La Rotonde de la Muette,Restaurant,75116,"12, chaussée de la Muette",48.8584532,2.2730688000000328,+ 33 1 45 24 45 45,De 36 à 50 €,Brasserie,,
+Sunset,Restaurant,75018,"100, rue Ordener",48.8931789,2.3417389999999614,+33 1 71 28 99 33,De 16 à 35 €,Café / Coffee Shop,Cuisine du marché,Tapas
+Le Bouchon et L'Assiette,Restaurant,75017,"127, rue Cardinet",48.8863472,2.3125371999999516,+33 1 42 27 83 93,De 36 à 50 €,Cuisine d'auteur,Cuisine du marché,Néobistrot
+L’Ecailler de l’Ebeniste,Restaurant,75017,"76, rue Boursault",48.8863741,2.3176933,+33 1 42 26 22 02,De 16 à 35 €,Poissons et fruits de mer,,
+L'Esquisse,Restaurant,75018,"151 bis, rue Marcadet",48.8912412,2.3386103000000276,+33 1 53 41 63 04,De 36 à 50 €,Cuisine du marché,Néobistrot,
+Les Enfants du Marché,Restaurant,75003,"39, rue de Bretagne",48.862755,2.3620003999999426,+ 33 1 40 24 01 43,De 36 à 50 €,Cuisine d'auteur,Cuisine du marché,Néobistrot
+Le Mermoz,Restaurant,75008,"16, rue Jean Mermoz",48.8707146,2.3115999999999985,+ 33 1 45 63 65 26,De 36 à 50 €,Cuisine d'auteur,Néobistrot,Bar à vins / Cave à manger
+Ellsworth,Restaurant,75001,"34, rue de Richelieu",48.8655806,2.3369466999999986,+33 1 42 60 59 66,De 36 à 50 €,Tapas,Néobistrot,Américain
+Juvéniles,Restaurant,75001,"47, rue de Richelieu",48.8663481,2.337016100000028,+33 1 42 97 46 49,De 36 à 50 €,Cuisine du marché,Bar à vins / Cave à manger,
+Champeaux,Restaurant,75001,"Forum des Halles, Porte Rambuteau",48.8619911,2.346416299999987,+33 1 53 45 84 50,De 36 à 50 €,Néobrasserie,,
+Kunitoraya (Udon Bistro),Restaurant,75001,"1, rue Villedo",48.8659958,2.3366616000000704,+ 33 1 47 03 33 65 ,De 16 à 35 €,Asiatique,Japonais,
+Jones,Restaurant,75011,"43, rue Godefroy-Cavaignac",48.8566587,2.3800522999999885,+33 9 80 75 32 08,De 16 à 35 €,Néobistrot,Bar à vins / Cave à manger,
+L'Orillon Bar,Restaurant,75011,"35, rue de l'Orillon",48.8702805,2.376393499999949,Pas de téléphone,De 16 à 35 €,Bistrot,Café / Coffee Shop,Cuisine du marché
+Buvette,Restaurant,75009,"28, rue Henri-Monnier",48.8804591,2.3376989999999296,+33 1 44 63 41 71,De 16 à 35 €,Café / Coffee Shop,Bar à vins / Cave à manger,
+Siseng,Restaurant,75010,"82, quai de Jemmapes",48.8722937,2.3651244000000133, +33 9 51 55 15 77,De 16 à 35 €,Asiatique,Café / Coffee Shop,
+Hôtel Providence,Restaurant,75010,"90, rue René-Boulanger",48.8693213,2.3565518999999995,+33 1 46 34 34 04,De 36 à 50 €,Bistrot,,
+Candelaria,Restaurant,75003,"52, rue de Saintonge",48.8629395,2.3640889000000698,+33 1 42 74 41 28,Moins de 15 €,Mexicain,Lèche-doigts,
+Aux Deux Amis,Restaurant,75011,"45, rue Oberkampf ",48.8645978,2.37186829999996,+33 1 58 30 38 13,De 16 à 35 €,Tapas,Bar à vins / Cave à manger,
+Blueberry,Restaurant,75006,"6, rue du Sabot",48.8527452,2.331322,+33 1 42 22 21 56,De 36 à 50 €,Asiatique,Japonais,Sushis
+Pontochoux,Restaurant,75003,"18, rue du Pont-aux-Choux",48.8613189,2.3650927999999567,+33 9 86 70 77 00,Moins de 15 €,Japonais,,
+Song-Heng,Restaurant,75003,"3, rue Volta",48.8647273,2.3567798999999923,+33 1 42 78 31 70,Moins de 15 €,Asiatique,Vietnamien,
+Jouvence,Restaurant,75012,"172 bis, rue du Faubourg-Saint-Antoine",48.8501829,2.382082999999966,+33 1 56 58 04 73,De 36 à 50 €,Cuisine d'auteur,Néobistrot,
+Tomette,Restaurant,75012,"23, rue de Cotte",48.8498561,2.3777158999999983,+ 33 1 53 17 09 91,De 16 à 35 €,Bar à vins / Cave à manger,Lèche-doigts,
+La Cave à Michel ,Restaurant,75010,"36, rue Sainte-Marthe",48.87435319999999,2.372934399999963,+33 1 42 45 94 47,De 16 à 35 €,Tapas,Bar à vins / Cave à manger,
+Le Camondo,Restaurant,75008,"61 bis, rue de Monceau",48.8788783,2.31194389999996,+ 33 1 45 63 40 40,Plus de 51 €,Méditerranéen,Nourritures mondaines,Néobrasserie
+Au Délice de Confucius,Restaurant,75013,"68, bd de L’Hôpital",48.83780489999999,2.359768000000031,+33 1 47 07 36 92,De 16 à 35 €,Asiatique,Chinois,
+En Vrac,Restaurant,75018,"2, rue de l'Olive",48.8901674,2.3614886000000297,+33 1 53 26 03 94,De 16 à 35 €,Bar à vins / Cave à manger,,
+Les Alisiers,Restaurant,04140,La Pérourière,44.402185,6.348906599999964,+33 4 92 35 34 80,De 16 à 35 €,Cuisine du marché,Terroir,
+Neige d’Eté,Restaurant,75015,"12, rue de l'Amiral-Roussin",48.8453342,2.2990853000000016,+33 1 42 73 66 66,Plus de 51 €,Cuisine d'auteur,,
+Le Beurre Noisette,Restaurant,75015,"68, rue Vasco-de-Gama",48.835621,2.2847405999999637,+33 1 48 56 82 49,De 36 à 50 €,Bistrot,,
+Buzkashi,Restaurant,75017,"7, rue des Dames",48.8853693,2.3257681999999704,+33 9 53 41 92 30,De 16 à 35 €,Afghan,,
+Sushi Marché,Restaurant,75016,"20, rue Mirabeau",48.8466944,2.270988799999941,+33 1 42 88 11 49,De 36 à 50 €,Asiatique,Japonais,Sushis
+Les Bacchanales,Restaurant,06140,"247, avenue de Provence",43.7267796,7.111818200000016,+33 4 93 24 19 19,Plus de 51 €,Cuisine d'auteur,Néobistrot,
+Likoké,Restaurant,07140,"7, route de Paiolive",44.40404669999999,4.133210599999984,+33 4 75 88 09 74,Plus de 51 €,Cuisine d'auteur,,
+La Grignothèque,Restaurant,09700,"49, allées du Balouard",43.233502,1.5747539999999844,+33 5 81 30 64 46,De 16 à 35 €,Cuisine du marché,Néobistrot,Terroir
+Au Verre Levé,Restaurant,13100,"15, rue Granet",43.5299312,5.449086599999987,+33 4 86 31 08 15,De 16 à 35 €,Planches / Assiettes froides,Bar à vins / Cave à manger,
+Maison Drouot,Restaurant,13520,"18, impasse Michel Durand",43.721127,4.802404000000024,+33 6 61 07 38 54,Plus de 51 €,Cuisine d'auteur,Cuisine du marché,
+Maison Maison,Restaurant,75001,"Face au 16, quai du Louvre",48.8585256,2.341392799999994,+33 9 67 82 07 32,De 16 à 35 €,Bistrot,Café / Coffee Shop,Planches / Assiettes froides
+Le Flacon Saint-Michel ,Restaurant,33000,"9, pl. du Maucaillou",44.8321297,-0.5673234999999295,+33 9 82 34 60 68,De 16 à 35 €,Bar à vins / Cave à manger,,
+Chez Paul,Restaurant,35000,"30, rue Poullain-Duparc ",48.108751,-1.6818997000000309,+33 2 99 78 22 49,De 16 à 35 €,Bistrot,Cuisine du marché,
+Louvine,Restaurant,40510,"45, avenue du Penon",43.6900559,-1.4355247999999392,+33 9 71 57 16 10 ,De 16 à 35 €,Café / Coffee Shop,,
+AO,Restaurant,56360,"7, route de Bangor",47.3407449,-3.1584702999999763,+33 2 97 57 12 51,De 36 à 50 €,Cuisine d'auteur,Néobistrot,
+Le Médiéval,Restaurant,46700,"24, Grand Rue",44.5038624,1.1379819999999654,+33 9 86 31 80 88,De 16 à 35 €,Bistrot,Bar à vins / Cave à manger,
+Instincts,Restaurant,64500,"20, rue Garât",43.3889398,-1.662529500000005,+33 5 59 24 66 98,De 36 à 50 €,Cuisine d'auteur,Néobistrot,
+Maitenia,Restaurant,64500,"8, place du Fronton",43.38404670000001,-1.6681551000000354,+33 5 40 39 26 03,De 16 à 35 €,Biocool,Cuisine du marché,Terroir
+Les Cochonneries du Cap e Tot,Restaurant,64370,"26, carrère du Château",43.5112524,-0.5346354000000701,+33 5 59 81 62 68,De 16 à 35 €,Cuisine d'auteur,Cuisine du marché,Néobistrot
+L'Ourson qui boit,Restaurant,69001,"23, rue Royale",45.77069609999999,4.8373942000000625,+33 4 78 27 23 37,De 16 à 35 €,Néobistrot,,
+Homies / Homies Bis,Restaurant,75004,"26 et 13, rue Beautreillis ",48.853101,2.3636756999999307,+33 9 80 41 05 40 / +33 1 42 72 38 34,De 16 à 35 €,Tapas,Végétarien,Bar à vins / Cave à manger
+La Boria,Restaurant,07000,"3, cours du Palais",44.7343907,4.599390099999937,+33 4 75 64 48 48,De 36 à 50 €,Cuisine d'auteur,Néobistrot,Terroir
+La Reine Jane,Restaurant,83400,Quai des Cormorans,43.1014973,6.17317079999998,+33 4 94 66 32 64,De 36 à 50 €,Néobistrot,,
+Daki-Daïa,Restaurant,06300,"26, quai Lunel",43.695034,7.282952000000023,+33 9 82 41 18 68,De 16 à 35 €,Tapas,Méditerranéen,
+Le Bar des Oiseaux ,Restaurant,06300,"5, rue Saint-Vincent",43.6969387,7.274871399999938,+33 4 93 80 27 33,De 36 à 50 €,Bistrot,Cuisine du marché,
+AM,Restaurant,13008,"9, rue François-Rocca",43.27003,5.386253000000011,+33 4 91 24 83 63,Plus de 51 €,Cuisine d'auteur,,
+Chardon,Restaurant,13200,"37, rue des Arènes",43.67769089999999,4.628016300000013,+33 9 72 86 72 04,De 16 à 35 €,Cuisine d'auteur,Néobistrot,
+Le Comptoir à Manger,Restaurant,67000,"10, Petite rue des Dentelles",48.5816783,7.742995899999983,+33 3 88 52 02 91,De 36 à 50 €,Biocool,Cuisine d'auteur,Cuisine du marché
+La Telline,Restaurant,13200,Rte de Gageron,43.57795689999999,4.621649599999955,+33 4 90 97 01 75,De 36 à 50 €,Terroir,Poissons et fruits de mer,
+Otto,Restaurant,13008,"150, rue Jean-Mermoz",43.2717825,5.386719900000003,+33 4 91 71 16 52 ,De 36 à 50 €,Italien,,
+Maison Nosh,Restaurant,13100,"32, cours Mirabeau",43.52657929999999,5.449331000000029,,Moins de 15 €,Café / Coffee Shop,Salon de thé / Pâtisserie,Snack / Tartes / Salades / Soupes / Bols
+Le Galoubet,Restaurant,13200,"18, rue du Docteur-Fanton",43.6782457,4.6268473000000085,+33 4 90 93 18 11,De 16 à 35 €,Bistrot,Cuisine du marché,
+La Courtille ,Restaurant,30126,"208, chemin des Cravailleux",44.0095956,4.703053299999965,+33 4 66 82 37 19,De 16 à 35 €,Bistrot,Terroir,
+Chez Bon,Restaurant,25000,"52, rue des Granges",47.237816,6.026304200000027,+33 3 81 48 85 89,De 16 à 35 €,Salon de thé / Pâtisserie,Snack / Tartes / Salades / Soupes / Bols,
+Le Tracteur,Restaurant,30210,Bord Nègre,43.9792366,4.478648199999952,+33 4 66 62 17 33,De 16 à 35 €,Cuisine d'auteur,Néobistrot,
+Auberge de Layotte,Restaurant,24620,Auberge de Layotte,44.977601,1.014799000000039,+33 5 53 06 95 91,De 36 à 50 €,Ferme-auberge,Terroir,
+Auberge Paysanne de la Mer,Restaurant,17410,Le Vert Clos,46.2046544,-1.3816392999999607,,De 16 à 35 €,Poissons et fruits de mer,,
+L’Epicerie de Dienne,Restaurant,15300,"4, route du Puy Mary",45.15840379999999,2.788888400000019,+ 33 4 71 20 59 84,De 16 à 35 €,Bistrot,Bar à vins / Cave à manger,
+Le Vin'Quatre ,Restaurant,24100,14 Rue Saint-Clar,44.8494904,0.48415780000004816,+33 5 53 22 37 26,De 16 à 35 €,Cuisine d'auteur,Néobistrot,
+Les Viviers de Térénez,Restaurant,29590,Route de Terenez,48.28074849999999,-4.257887100000062,+ 33 2 98 81 90 68 ,De 16 à 35 €,Guinguette,Poissons et fruits de mer,
+Le Troquet,Restaurant,34150,Pl. de l’Eglise,43.7150021,3.6169386999999915,+ 33 4 67 84 41 12,De 16 à 35 €,Néobistrot,,
+La Petite Ourse,Restaurant,35000,"48, bd de la Liberté",48.1083377,-1.6827275000000554,+33 9 52 84 33 61,De 16 à 35 €,Cuisine du marché,Terroir,
+La Terrasse du Mimosa,Restaurant,34150,"23, pl. de l’Horloge",43.6958567,3.5054376000000502,+33 4 67 44 49 80,De 16 à 35 €,Bistrot,Terroir,Bar à vins / Cave à manger
+Halles et Manger,Restaurant,34200,Halles de Sète,43.40213300000001,3.694690000000037,,De 16 à 35 €,Cuisine du marché,,
+Le Forestier,Restaurant,74120,Massif de Rochebrune,45.856876,6.617750000000001,+33 4 50 96 13 94,De 36 à 50 €,Terroir,,
+Les Sheds,Restaurant,68260,"2, rue d’Illzach",47.7913208,7.339699300000007,+33 3 89 51 15 03,De 16 à 35 €,Biocool,Bistrot,Cuisine du marché
+Les Têtes d'Ail,Restaurant,31000,"6, rue de la Fonderie",43.5947521,1.443676699999969,+33 5 61 13 40 41,De 16 à 35 €,Cuisine d'auteur,Cuisine du marché,Néobistrot
+La Kilbe,Restaurant,68000,"37, route de Neuf-Brisach",48.0800923,7.3659447,+33 3 89 24 00 23,De 16 à 35 €,Cuisine du marché,Terroir,
+Palégrié,Restaurant,38250,Hôtel du Golf,45.0266436,5.520280500000013,+33 4 76 95 84 84,Plus de 51 €,Cuisine d'auteur,Néobistrot,
+Grain Noir ,Restaurant,35400,"16, rue de la Herse",48.6481443,-2.024771900000019,+33 2 23 17 56 79,Moins de 15 €,Crêperie,,
+Nobuki ,Restaurant,37000,"3, rue Buffon",47.3933725,0.6904798000000483,+33 2 47 05 79 79,De 16 à 35 €,Asiatique,Japonais,
+Le Bistrot de la Tournelle,Restaurant,39600,Domaine de la Tournelle,46.9018331,5.772875900000031,+33 6 43 54 54 94,Moins de 15 €,Guinguette,Terroir,Bar à vins / Cave à manger
+Chez Gaster,Restaurant,37000,"27, rue Colbert",47.3954745,0.6880780000000186,+33 2 47 05 79 63,De 16 à 35 €,Bistrot,Cuisine du marché,
+Les Trois Cépages,Restaurant,36260,"17, rue de la Gare",47.0861886,2.046090499999991,+33 2 54 03 23 13,De 36 à 50 €,Néobistrot,,
+Dang Vo Capbreton,Restaurant,40130,"17, rue du Hapchot",43.6496286,-1.4079925999999432,,Moins de 15 €,Vietnamien,,
+Chez Pif,Restaurant,,Avenue du Tour du Lac,43.68280410000001,-1.4288060000000087,,Moins de 15 €,Guinguette,Poissons et fruits de mer,
+Restaurant Bras,Restaurant,12210,Rte de l'Aubrac,44.6807651,2.8919657000000143,+33 5 65 51 18 20,Plus de 51 €,Cuisine d'auteur,,
+Le Belvédère,Restaurant,12340,"11, route du Maquis-Jean-Pierre",44.4726678,2.7196131000000605,+33 5 65 44 92 66,De 36 à 50 €,Cuisine d'auteur,,
+Lou Bourdié,Restaurant,46230,Le Bourg,44.35050649999999,1.6720247000000654,+ 33 5 65 31 77 46,De 16 à 35 €,Bistrot,Terroir,
+Delicatessens,Restaurant,46300,Le Bourg,44.797655,1.3490540000000237,+33 5 65 32 70 56,De 16 à 35 €,Cuisine du marché,Néobistrot,
+Auberge Beauville,Restaurant,46320,Le Bourg ,44.638197,1.772438,+33 5 65 40 55 62,De 16 à 35 €,Terroir,Table d'hôte,
+De Sel et d’Ardoise,Restaurant,45000,"44, rue du Faubourg-Bannier",47.9096001,1.9008790999999974,+33 2 34 50 23 40,De 16 à 35 €,Cuisine d'auteur,Néobistrot,
+Waxed,Restaurant,40150,"48, allée des Pins-Tranquilles",43.6582722,-1.4292030000000295,Pas de téléphone,Moins de 15 €,Café / Coffee Shop,,
+Au Grand Sérieux,Restaurant,54000,"27, rue Raugraff",48.6897274,6.182097200000044,+33 3 83 36 68 87,De 16 à 35 €,Bistrot,Cuisine du marché,
+Le Moulin de Civadoux ,Restaurant,63490,Route de Saint-Genès-la-Tourette,45.5485479,3.395040999999992,+33 4 73 96 81 94,De 16 à 35 €,Biocool,Cuisine du marché,Terroir
+El Xadic del Mar,Restaurant,66650,"11, av. du Puig-del-Mas",42.4812187,3.128275199999962,+33 4 68 88 89 20,De 16 à 35 €,Tapas,Planches / Assiettes froides,Bar à vins / Cave à manger
+Arrantzaleak,Restaurant,64500,"18, av. Jean-Poulou",43.3832124,-1.6637382999999772,+33 5 59 47 10 75,De 36 à 50 €,Terroir,Poissons et fruits de mer,
+Froggy's Tavern,Restaurant,62170,"51 bis, pl. du Général-de-Gaulle",50.4620149,1.7599612999999863,+33 3 21 86 72 32,De 16 à 35 €,Cuisine du marché,Viandes / Grillades,
+Le Chat,Restaurant,58200,"42 bis, rue des Guérins",47.37303430000001,2.9017000000000053,+33 3 86 28 49 03,De 16 à 35 €,Cuisine d'auteur,Cuisine du marché,Néobistrot
+Via del Vi,Restaurant,66000,"43, av. du Général-Leclerc",42.7007545,2.8895669999999427,+33 4 68 67 84 96,De 16 à 35 €,Tapas,Terroir,Bar à vins / Cave à manger
+SMØRREBRØD,Restaurant,63000,"10, rue des Archers",45.7794792,3.089747999999986,+33 4 73 90 44 02,De 16 à 35 €,Néobistrot,,
+Rozo,Restaurant,59800,"79, rue de La Monnaie",50.6414892,3.0617631000000074,+33 9 83 46 55 00,Plus de 51 €,Néobistrot,,
+Les Canailles,Restaurant,62520,"73, rue de Paris",50.5239409,1.5831559000000652,+33 3 21 05 03 03,De 36 à 50 €,Bistrot,Bar à vins / Cave à manger,
+Vigne en Foule,Restaurant,81600,"80, place de la Libération",43.9001666,1.8982114000000365,+33 5 63 41 79 08,De 16 à 35 €,Biocool,Bistrot,Café / Coffee Shop
+Le Coq à l'Âne ,Restaurant,66720,"1, pl. du Marché",42.767272,2.6531199999999444,,De 16 à 35 €,Bistrot,Café / Coffee Shop,Terroir
+Le Local,Restaurant,83000,"455, littoral Frédéric-Mistral",43.1083067,5.940186700000027,+33 4 94 20 61 32,De 16 à 35 €,Cuisine du marché,Néobistrot,
+Chez Mérie,Restaurant,73640,Le Miroir,45.6021307,6.887606000000005,+33 4 79 06 90 16,De 36 à 50 €,Terroir,,
+Au Vélocipède,Restaurant,80230,"1, rue du Puits-Salé",50.1882676,1.6306070000000545,+33 3 22 60 57 42,De 16 à 35 €,Biocool,Salon de thé / Pâtisserie,Table d'hôte
+L’Oguste,Restaurant,82170,"12, allée du Canal",43.8656943,1.2747507000000269,+33 5 63 24 01 12,De 16 à 35 €,Bistrot,,
+Le Violette,Restaurant,84000,"5, rue Violette",43.9447126,4.804277800000023,+33 4 90 85 36 42,De 36 à 50 €,Néobrasserie,,
+Les Amis des Messina Réaumur,Restaurant,75002,"81, rue Réaumur",48.8668013,2.3485395000000153,+33 1 42 61 13 73,De 16 à 35 €,Italien,,
+L'Ebauche,Restaurant,69001,"4, rue de la Martinière",45.7681329,4.828495100000055,+33 4 78 58 12 58,De 16 à 35 €,Néobistrot,Bar à vins / Cave à manger,
+Ô Vins d'Anges,Restaurant,69004,"2, place Bertone",45.7775218,4.834377200000063,+33 9 51 88 20 99,De 16 à 35 €,Planches / Assiettes froides,Bar à vins / Cave à manger,
+Avenida Brasil ,Restaurant,64600,"11, av. du Rayon Vert",43.5009022,-1.5390509000000065,+33 5 59 26 36 89,De 16 à 35 €,Bistrot,Cuisine du marché,Brésilien
+Holybelly 19,Restaurant,75010,"19, rue Lucien Sampaix",48.87235769999999,2.3608024000000114,+33 1 82 28 00 80,De 16 à 35 €,Café / Coffee Shop,,
+Le Bien Venu,Restaurant,75009,"23, rue Buffault",48.8761962,2.342140400000062,+33 1 48 78 32 18,De 16 à 35 €,Asiatique,Cuisine d'auteur,Tapas
+Elements,Restaurant,64210,"1247, av. de Bayonne",43.4507847,-1.5632084000000077,+33 9 86 38 08 51,De 16 à 35 €,Biocool,Cuisine d'auteur,Cuisine du marché
+L’Estacade 	,Restaurant,44490,"4, quai du Lenigo",47.297463,-2.5147779999999784,+33 2 40 23 03 77,De 16 à 35 €,Cuisine du marché,,
+Le Bel Endroit ,Restaurant,64500,Chemin de Senix,43.42030099999999,-1.621849999999995,,Moins de 15 €,Sandwichs / Bagels,Lèche-doigts,
+Les Bancs Publics,Restaurant,75019,"2, rue de Nantes",48.8910069,2.3838596000000507,+33 9 80 76 36 71,De 16 à 35 €,Bistrot,Cuisine du marché,
+Le Canclaux,Restaurant,44100,"7, place Canclaux",47.2144641,-1.5748982999999726,+33 9 52 76 27 62,De 16 à 35 €,Bistrot,Cuisine du marché,
+Bekseju Village,Restaurant,75013,"53, bd. Saint Marcel",48.83771840000001,2.3556418000000576,+33 1 77 11 24 37,De 36 à 50 €,Asiatique,Coréen,
+Café Pimpin ,Restaurant,75018,"64, rue Ramey",48.8917686,2.3449057000000266,+33 1 46 06 97 25,Moins de 15 €,Biocool,Café / Coffee Shop,Salon de thé / Pâtisserie
+Melt,Restaurant,75011,"74, rue de la Folie Méricourt",48.8656108,2.3708025999999336,+33 9 81 36 42 76,De 16 à 35 €,Viandes / Grillades,Américain,
+Osteria Ferrara,Restaurant,75011,"7, rue du Dahomey",48.8512822,2.383291999999983,+33 1 43 71 67 69,De 36 à 50 €,Cuisine d'auteur,Italien,
+Margo,Restaurant,75011,"9, rue Jean-Pierre Timbaud",48.865104,2.3672374999999874,+33 1 43 38 52 19,De 36 à 50 €,Néobistrot,,
+Jong-no Samgyetang,Restaurant,75013,"23, boulevard de Port-Royal",48.8369058,2.3481698000000506,+33 9 83 70 66 02,De 16 à 35 €,Coréen,,
+Empreinte,Restaurant,56000,"15, Place Valencia",47.6568428,-2.7574101000000155,+33 2 97 46 06 42,De 16 à 35 €,Cuisine d'auteur,Néobistrot,
+Trois B,Restaurant,75019,"48, av. Jean-Jaurès",48.88366389999999,2.3744682999999895,+33 1 42 00 22 01,De 16 à 35 €,Cuisine du marché,Néobistrot,
+Caillebotte,Restaurant,75009,"8, rue Hippolyte-Lebas",48.8771387,2.3408644999999524,+33 1 53 20 88 70,De 36 à 50 €,Néobistrot,,
+Le Pantruche,Restaurant,75009,"3, rue Victor-Massé",48.8804459,2.339839500000039,+33 1 48 78 55 60,De 36 à 50 €,Cuisine du marché,Néobistrot,
+Petrossian,Restaurant,75007,"13, bd de la Tour-Maubourg",48.8609799,2.3105437000000393,+33 1 44 11 32 32,Plus de 51 €,Nourritures mondaines,Poissons et fruits de mer,
+Mamma Primi,Restaurant,75017,"71, rue des Dames",48.88348209999999,2.3206986000000143,+33 1 47 42 33 31,De 16 à 35 €,Italien,Pizzas,
+Les Terrasses de la Côte Rouge,Restaurant,24480,"6, rue de la Côte-Rouge",44.8128229,0.8740732999999636,+33 6 23 81 60 39,De 16 à 35 €,Biocool,Cuisine du marché,Néobistrot
+La Goguette,Restaurant,83330,"1, impasse de l'Homme-de-Paille",43.2031025,5.775633500000026,+33 4 94 90 71 96,De 36 à 50 €,Cuisine d'auteur,Cuisine du marché,Néobistrot
+Chez Etienne,Restaurant,13002,"43, rue Lorette",43.3000415,5.3699656000000004,+33 4 91 54 76 33,De 16 à 35 €,Italien,Pizzas,
+Dubrown,Restaurant,44000,"12, rue Saint-Léonard",47.2170188,-1.555381699999998,+33 9 51 25 90 14,Moins de 15 €,Burgers,Lèche-doigts,
+Septime,Restaurant,75011,"80, rue de Charonne",48.8535855,2.3807021999999733,+33 1 43 67 38 29,Plus de 51 €,Cuisine d'auteur,Néobistrot,
+Maria,Restaurant,69001,"3, rue des Pierres Plantées",45.7736139,4.832334899999978,,Moins de 15 €,Italien,Pizzas,
+Sagí,Restaurant,66000,"3, rue des Fabriques-d’en-Nabot",42.6998033,2.8940360000000283,+33 4 68 09 65 82 ,De 16 à 35 €,Tapas,Terroir,Bar à vins / Cave à manger
+Marzo,Restaurant,75007,"5, rue Paul-Louis-Courier",48.8560031,2.3248614000000316,+ 33 1 43 35 08 05,De 36 à 50 €,Italien,Pizzas,
+Abri,Restaurant,75010,"92, rue du Faubourg-Poissonnière",48.8778827,2.3492808999999397,+33 1 83 97 00 00,De 16 à 35 €,Cuisine d'auteur,Néobistrot,Lèche-doigts
+Le Tagine,Restaurant,75011,"13, rue de Crussol ",48.8643875,2.3678218,+33 1 47 00 28 67,De 36 à 50 €,Marocain,,
+Lazare,Restaurant,75008,Parvis de la gare Saint-Lazare,48.87612550000001,2.3255042000000685,+33 1 44 90 80 80,De 36 à 50 €,Néobrasserie,,
+Le 21,Restaurant,44210,"21, rue de la Plage-de-la-Birochère",47.1053645,-2.091622099999995,+33 2 51 18 15 95,De 36 à 50 €,Poissons et fruits de mer,,
+Il Bacaro,Restaurant,75011,"9, rue Auguste-Laurent",48.8571639,2.3820579000000635,+33 1 43 79 16 66,De 16 à 35 €,Italien,Terroir,
+Les Agitateurs,Restaurant,06300,"24, rue Bonaparte",43.7004289,7.284456200000022,+33 9 87 33 02 03,De 16 à 35 €,Cuisine du marché,Tapas,Méditerranéen
+L'Auberge du Corsaire - Chez Paul,Restaurant,13008,"35, rue Désiré-Pelaprat",43.2150492,5.345564800000034,+33 4 91 73 19 26,De 16 à 35 €,Pizzas,Poissons et fruits de mer,
+Aux Bons Sauvages,Restaurant,69005,16 Quai des Étroits,45.7493744,4.8170248999999785,+33 9 83 46 20 56,De 16 à 35 €,Biocool,Bistrot,
+Thuy Long ,Restaurant,75006,"111, rue de Vaugirard",48.8451678,2.3207834,+33 1 45 49 26 01,Moins de 15 €,Vietnamien,,
+A.T Restaurant ,Restaurant,75005,"4 bis, rue du Cardinal-Lemoine",48.84974,2.3544939999999315,+33 1 56 81 94 08 ,Plus de 51 €,Cuisine d'auteur,Néobistrot,
+"Fulgurances, l'adresse",Restaurant,75011,"10, rue Alexandre-Dumas",48.8529311,2.3898639999999887,+33 1 43 48 14 59,De 16 à 35 €,Néobistrot,,
+Pastore,Restaurant,75009,"26, rue Bergère",48.8725686,2.344523900000013,+33 9 80 77 25 73,De 16 à 35 €,Italien,Néobistrot,
+Food Court Galeries Lafayette Champs Élysées,Restaurant,75008,"60, av. des Champs-Élysées",48.8704642,2.306304800000021,,De 16 à 35 €,Snack / Tartes / Salades / Soupes / Bols,Lèche-doigts,
+Da Graziella,Restaurant,75010,"43, rue des Petites Écuries",48.8738319,2.3496602999999823,+ 33 1 45 65 37 15,De 16 à 35 €,Italien,Pizzas,
+Substrat,Restaurant,69004,"7, rue Pailleron",45.779573,4.832933300000036,+33 4 78 29 14 93,De 16 à 35 €,Néobistrot,,
+Kodawari Tsukiji,Restaurant,75001,"12, rue de Richelieu",48.8643706,2.3362551999999823,+33 9 84 30 99 26,De 16 à 35 €,Japonais,,
+Roco,Restaurant,75017,"1, rue Guillaume-Tell",48.88382319999999,2.292958399999975,+33 1 47 64 49 39,De 16 à 35 €,Italien,Pizzas,
+Imouto,Restaurant,69007,"21, rue Pasteur ",45.7541091,4.840829600000006,+33 4 72 76 99 53,De 36 à 50 €,Asiatique,Japonais,Néobistrot
+Le Beach,Restaurant,34340,Camping Beauregard Plage Marseillan,43.314584,3.5488530000000083,,De 16 à 35 €,Tapas,Méditerranéen,Bar à vins / Cave à manger
+La Fontaine de Belleville,Restaurant,75010,"31-33, rue Juliette-Dodu",48.8757796,2.3684670999999753,+33 9 81 75 54 54,Moins de 15 €,Café / Coffee Shop,,
+Co ,Restaurant,75018,"15, rue Esclangon",48.8966773,2.3429258999999547,+33 1 40 25 03 36,De 36 à 50 €,Cuisine d'auteur,Cuisine du marché,Néobistrot
+Alaïa,Restaurant,64500,"2, allée Andre Hiriart",43.3900051,-1.6844098999999915,+33 5 59 47 43 79,De 16 à 35 €,Bistrot,Terroir,Poissons et fruits de mer
+"L'Auberge sur-les-Bois, cave à manger",Restaurant,74940,"79, route de Thônes",45.9227268,6.1718570000000454,+33 4 50 64 00 08,De 16 à 35 €,Biocool,Cuisine du marché,Bar à vins / Cave à manger
+Izumi,Restaurant,75017,"55, boulevard des Batignolles",48.8814131,2.3183217000000695,+33 1 45 22 43 55,De 36 à 50 €,Biocool,Japonais,
+L'Embrun,Restaurant,29200,"48, rue de Lyon",48.3899857,-4.4914971000000605,+33 2 98 43 08 52,Plus de 51 €,Cuisine d'auteur,Néobistrot,
+Le Galopin,Restaurant,75010,"34, rue Sainte-Marthe",48.874274,2.372755999999981,+33 1 42 06 05 03,Plus de 51 €,Cuisine d'auteur,Néobistrot,
+Les Pipelettes,Restaurant,75014,"31, rue Brézin",48.8315262,2.326211300000068,+33 9 81 29 27 32,De 16 à 35 €,Cuisine du marché,Salon de thé / Pâtisserie,Snack / Tartes / Salades / Soupes / Bols
+Coutume Café,Restaurant,75007,"47, rue de Babylone",48.8515993,2.3184009999999944,+33 1 45 51 50 47,De 16 à 35 €,Café / Coffee Shop,Snack / Tartes / Salades / Soupes / Bols,
+Saul's,Restaurant,75009,"66, rue Rodier",48.8808969,2.3443393000000015,,Moins de 15 €,Lèche-doigts,,
+Blitz,Restaurant,75011,"6, rue Rochebrune",48.8608081,2.3789564999999584,+33 9 50 06 71 60,De 16 à 35 €,Israélien,,
+Le Grand Bol,Restaurant,75011,"7, rue de la Présentation",48.8709815,2.376805300000001,+ 33 1 77 16 89 91,De 16 à 35 €,Chinois,,
+Echo,Restaurant,75002,"95, rue d'Aboukir",48.8683335,2.3484467000000677,+33 1 40 26 53 21,De 16 à 35 €,Café / Coffee Shop,Salon de thé / Pâtisserie,Sandwichs / Bagels
+L’Avant-Poste,Restaurant,75010,"7, rue de la Fidélité",48.8743281,2.355979400000024,+33 9 81 41 01 07,De 16 à 35 €,Cuisine du marché,Néobistrot,
+NaNa,Restaurant,75011,"10, rue Bréguet ",48.856705,2.3720593000000463,+33 1 43 38 27 19,De 36 à 50 €,Cuisine du marché,Néobistrot,
+Candide,Restaurant,75010,"35, rue de Sambre-et-Meuse",48.8745278,2.3736842000000706,+33 1 83 87 99 93,De 16 à 35 €,Cuisine du marché,Viandes / Grillades,
+Sanjo,Restaurant,75001,"29, rue d’Argenteuil",48.8663375,2.333163099999979,+33 1 43 43 23 98,De 16 à 35 €,Asiatique,Japonais,
+Toraya,Restaurant,75001,"10, rue Saint-Florentin ",48.8676221,2.32456209999998,+33 1 42 60 13 00,De 16 à 35 €,Asiatique,Japonais,Salon de thé / Pâtisserie
+Rice & Fish / Yaki ,Restaurant,75002,"16 et 22, rue Greneta",48.8652451,2.3508961999999656,+33 1 42 36 63 72 et +33 1 42 33 80 74,De 16 à 35 €,Japonais,Sushis,
+Café de la Nouvelle Mairie,Restaurant,75005,"19, rue des Fossés-Saint-Jacques",48.8454623,2.3448203000000376,+33 1 44 07 04 41,De 16 à 35 €,Bistrot,Café / Coffee Shop,Bar à vins / Cave à manger
+Miznon Marais ,Restaurant,75004,"22, rue des Ecouffes",48.8571304,2.3589598999999453,+33 1 42 74 83 58,De 16 à 35 €,Végétarien,Sandwichs / Bagels,Lèche-doigts
+Bonvivant,Restaurant,75005,"7, rue des Écoles",48.8475192,2.351970299999948,+33 1 43 26 51 34,De 36 à 50 €,Bistrot,Planches / Assiettes froides,Bar à vins / Cave à manger
+Colorova,Restaurant,75006,"47, rue de l'Abbé Grégoire",48.8469937,2.3260919,+33 1 45 44 67 56,De 16 à 35 €,Salon de thé / Pâtisserie,,
+Quinsou,Restaurant,75006,"33, rue de l’Abbé-Grégoire",48.84768099999999,2.3256013000000166,+ 33 1 42 22 66 09,Plus de 51 €,Cuisine d'auteur,Néobistrot,
+Le Grand Bol Septième,Restaurant,75007,"18, rue de la Chaise",48.8530443,2.3270307999999886,+ 33 1 83 06 12 38,De 16 à 35 €,Chinois,,
+Le Voltaire,Restaurant,75007,"27, quai Voltaire",48.859079,2.3302490999999463,+33 1 42 61 17 49,Plus de 51 €,Bistrot,,
+Bien Elevé,Restaurant,75009,"47, rue Richer",48.8740408,2.34274860000005,+ 33 1 45 81 44 35,De 16 à 35 €,Cuisine du marché,Néobistrot,Viandes / Grillades
+Mulino Mulè,Restaurant,75010,"25, rue Sainte-Marthe",48.874196,2.372335900000053,+33 9 54 75 92 07,De 16 à 35 €,Italien,,
+Bob's Juice Bar,Restaurant,75010,"15, rue Lucien-Sampaix",48.8720656,2.3605755999999474,+33 9 50 06 36 18,Moins de 15 €,Biocool,Snack / Tartes / Salades / Soupes / Bols,Sandwichs / Bagels
+Le Martel ,Restaurant,75010,"3, rue Martel ",48.8736766,2.352760900000021,+33 1 47 70 67 56,De 16 à 35 €,Maghreb,Bistrot,Cuisine du marché
+Au Petit Panisse,Restaurant,75011,"35, rue de Montreuil",48.8505542,2.3866997000000083,+33 1 43 71 37 90,De 16 à 35 €,Bistrot,Café / Coffee Shop,Bar à vins / Cave à manger
+Coup d'Œil,Restaurant,75011,"80, rue Sedaine",48.8585222,2.3783968000000186,+ 33 1 43 57 59 68,De 16 à 35 €,Bar à vins / Cave à manger,Lèche-doigts,
+L'Arbre Jaune,Restaurant,75011,"96, rue Jean-Pierre-Timbaud",48.8677734,2.377981699999964,+33 1 83 92 50 06,De 16 à 35 €,Bistrot,,
+Buffet,Restaurant,75011,"8, rue de la Main-d’Or",48.8517011,2.3782306000000517,+33 1 83 89 63 82,De 16 à 35 €,Bistrot,Bar à vins / Cave à manger,
+L'Ecailler du Bistrot ,Restaurant,75011,"22, rue Paul-Bert",48.8524257,2.3850577000000612,+33 1 43 72 76 77,De 36 à 50 €,Bistrot,Poissons et fruits de mer,
+Soya,Restaurant,75011,"20, rue de la Pierre-Levée",48.86815199999999,2.370053299999995,+33 1 48 06 33 02,De 16 à 35 €,Biocool,Snack / Tartes / Salades / Soupes / Bols,Végétarien
+Sala-Thaï ,Restaurant,75013,"13, rue des Frères Astier de la Vigerie ",48.82373639999999,2.3625749999999925,+33 1 45 84 13 22 ,De 16 à 35 €,Asiatique,Laotien,Thaïlandais
+Girafe,Restaurant,75016,"1, place du Trocadéro",48.8627153,2.288473500000009,+33 1 40 62 70 61,Plus de 51 €,Nourritures mondaines,Poissons et fruits de mer,
+La Maison des Frigos ,Restaurant,75013,"19, rue des Frigos",48.8314177,2.3789881999999807,+33 1 44 23 76 20,De 16 à 35 €,Asiatique,Japonais,
+Le Severo,Restaurant,75014,"8, rue des Plantes",48.8319967,2.324574900000016,+33 1 45 40 40 91,De 36 à 50 €,Bistrot,Viandes / Grillades,Bar à vins / Cave à manger
+La Traversée,Restaurant,75018,"2, rue Ramey",48.8872645,2.3475985999999693,+33 9 54 86 79 95,De 16 à 35 €,Néobistrot,Bar à vins / Cave à manger,
+Lou Tiap,Restaurant,75020,"81, rue de Bagnolet",48.8584851,2.400802800000065,+33 1 43 70 77 93,De 36 à 50 €,Bistrot,Terroir,
+FTG,Restaurant,75002,"9, rue du Nil",48.8675898,2.3475720999999794,+33 1 40 26 23 43 ,De 16 à 35 €,Casse-croûte,Salon de thé / Pâtisserie,Hot-dogs
+Baltard au Louvre,Restaurant,75001,"9, rue Coquillière",48.863311,2.3422772000000123,+33 9 83 32 01 29 ,De 36 à 50 €,Néobistrot,Néobrasserie,
+Street Bangkok Canteen & Bar,Restaurant,75011,"13, rue de la Roquette",48.8542284,2.3710395000000517,+ 33 9 62 54 90 21,Moins de 15 €,Thaïlandais,,
+Coffee Club,Restaurant,75006,"87, rue d'Assas",48.8421196,2.335304899999983,+33 1 43 29 87 87,De 16 à 35 €,Burgers,Café / Coffee Shop,Snack / Tartes / Salades / Soupes / Bols
+Ob-La-Di,Restaurant,75003,"54, rue de Saintonge",48.8629889,2.3640720999999303,Pas de téléphone,Moins de 15 €,Café / Coffee Shop,,
+L'Arpège,Restaurant,75007,"84, rue de Varenne",48.8557617,2.3170924999999443,+33 1 47 05 09 06,Plus de 51 €,Cuisine d'auteur,,
+Restaurant David Toutain,Restaurant,75007,29 Rue Surcouf,48.8602571,2.3097285000000056,+33 1 45 50 11 10,Plus de 51 €,Cuisine d'auteur,Néobistrot,
+Le Bar des Prés,Restaurant,75006,"25, rue du Dragon",48.8527632,2.3306526999999733,+33 1 43 25 87 67,Plus de 51 €,Japonais,,
+Laiterie Sainte Clotilde,Restaurant,75007,"64, rue de Bellechasse",48.8560971,2.3206337000000303,+33 1 45 51 74 61,De 16 à 35 €,Cuisine du marché,Néobistrot,
+Le Café de Mars,Restaurant,75007,"11, rue Augereau",48.8574387,2.3021139,+33 1 45 50 10 90,De 16 à 35 €,Néobistrot,,
+La Fontaine de Mars,Restaurant,75007,"129, rue Saint-Dominique",48.8584043,2.302534899999955,+33 1 47 05 46 44 ,Plus de 51 €,Bistrot,Cuisine du marché,
+Maï Do,Restaurant,75006,"23, bd du Montparnasse",48.8455094,2.3197139000000107,+33 1 45 48 54 60,De 16 à 35 €,Vietnamien,,
+La Cantine Merci,Restaurant,75003,"111, bd Beaumarchais",48.8606901,2.3666584999999714,+33 1 42 77 79 28,De 16 à 35 €,Café / Coffee Shop,Salon de thé / Pâtisserie,Snack / Tartes / Salades / Soupes / Bols
+Dersou,Restaurant,75012,"21, rue Saint-Nicolas",48.8514254,2.3746079999999665,+33 9 81 01 12 73,Plus de 51 €,Asiatique,Cuisine d'auteur,
+Chez Casimir,Restaurant,75010,"6, rue de Belzunce",48.87940889999999,2.3525935999999774,+33 1 48 78 28 80,De 16 à 35 €,Bistrot,Cuisine du marché,
+Ozlem ,Restaurant,75010,"57, rue des Petites-Ecuries",48.8738248,2.348571399999969,+33 1 47 70 37 87,Moins de 15 €,Lèche-doigts,Turc,
+Atelier Annam,Restaurant,75012,"25, rue de Cotte",48.8499389,2.377863199999979,+33 1 43 41 70 91,Moins de 15 €,Asiatique,Vietnamien,Lèche-doigts
+Le 975,Restaurant,75017,"25, rue Guy-Môquet",48.8920444,2.3224471999999423,+33 9 53 75 67 71,De 36 à 50 €,Cuisine d'auteur,Cuisine du marché,Néobistrot
+Jeanne,Restaurant,06600,"10, rue Sade",43.5810705,7.126883799999973,+33 4 93 34 55 74,De 16 à 35 €,Bar à vins / Cave à manger,,
+L’Etabli,Restaurant,75017,"4, rue Bridaine",48.88619920000001,2.32038979999993,+33 1 44 90 05 04 ,De 36 à 50 €,Planches / Assiettes froides,Bar à vins / Cave à manger,
+La Maison Bouteille ,Restaurant,12340,"8, rue du Trou",44.4705768,2.7200321999999915,+33 5 65 48 42 60,De 16 à 35 €,Bistrot,,
+Marcel et Suzon,Restaurant,90160,6 Grande Rue,47.6381342,6.8802316999999675,+33 3 63 78 56 63,Moins de 15 €,Café / Coffee Shop,Salon de thé / Pâtisserie,Végétarien
+MiTo,Restaurant,67000,"8, pl. d’Austerlitz",48.5775679,7.752643600000056,+33 3 88 23 85 32,De 16 à 35 €,Italien,Pizzas,
+Anima,Restaurant,75006,"78, rue du Cherche-Midi",48.848057,2.3234423000000106,+33 1 40 47 90 41,De 36 à 50 €,Italien,Néobistrot,
+Chez Jacky,Restaurant,29350,"6, rue du Port-de-Bélon",47.8069547,-3.7021460999999363,+ 33 2 98 06 90 32,De 16 à 35 €,Poissons et fruits de mer,,
+Symbiose,Restaurant,33000,"4, quai des Chartrons",44.8490727,-0.5708718999999292,+ 33 5 56 23 67 15,De 36 à 50 €,Tapas,Néobistrot,
+La Piscine Kamouraska,Restaurant,74000,"8, passage de la Cathédrale",45.89963909999999,6.126058999999941,,Moins de 15 €,Casse-croûte,Biocool,Snack / Tartes / Salades / Soupes / Bols
+Roza,Restaurant,44000,"3, place de la Monnaie",47.2131841,-1.565564399999971,+33 2 40 54 01 87,Plus de 51 €,Néobistrot,,
+Le Zinc,Restaurant,38000,"5, rue Auguste-Gaché",45.1910821,5.731253,+33 4 76 03 07 44,De 16 à 35 €,Tapas,Planches / Assiettes froides,Bar à vins / Cave à manger
+Dang Vo Saint-Jean-de-Luz,Restaurant,64500,"13, rue Paul Gelos",43.396743,-1.6575672999999824,,De 16 à 35 €,Vietnamien,Snack / Tartes / Salades / Soupes / Bols,Créole
+Eklat,Restaurant,64100,"2, rue Marengo",43.49091,-1.4738164000000324,+33 5 59 42 64 95,Moins de 15 €,Café / Coffee Shop,Salon de thé / Pâtisserie,Lèche-doigts
+Peixes,Restaurant,06300,"4, rue de l’Opéra",43.69580550000001,7.271212500000047,+ 33 4 93 85 96 15,De 16 à 35 €,Tapas,Néobistrot,Poissons et fruits de mer
+Bobo Bistrot ,Restaurant,06400,"21, rue du Commandant André",43.55114750000001,7.023120400000039,+33 4 93 99 97 33 ,De 16 à 35 €,Néobistrot,Pizzas,
+Auberge du Fel,Restaurant,12140,Le Fel,44.653054,2.5048659999999927,+33 5 65 44 52 30,De 16 à 35 €,Cuisine du marché,Ferme-auberge,Terroir
+Chez Mémé,Restaurant,13001,"84, bd Longchamp",43.30224810000001,5.390368399999943,+33 7 81 02 21 47,De 36 à 50 €,Cuisine d'auteur,Néobistrot,
+La Relève ,Restaurant,13007,"41, rue d'Endoume",43.2894801,5.366496600000005,+ 33 4 95 09 87 81,De 16 à 35 €,Bistrot,Café / Coffee Shop,
+Les Funambules,Restaurant,67000,"17, rue Geiler",48.58705639999999,7.7677271999999675,+33 3 88 61 65 41,De 16 à 35 €,Cuisine d'auteur,,
+La Baronne,Restaurant,13170,RN 113 ,43.4116239,5.313906299999985,+33 4 42 46 53 85 ,Moins de 15 €,Pizzas,,
+Chez Yassine,Restaurant,13001,"8, rue d’Aubagne",43.2956689,5.37890630000004,+33 9 80 83 39 13,Moins de 15 €,Tunisien,,
+Sodade,Restaurant,15110,"21, av. Georges-Pompidou",44.8516163,3.0032258999999613,+33 4 71 60 10 23,De 36 à 50 €,Cuisine d'auteur,,
+La Table des Matières,Restaurant,15000,"5, rue de l’Hôtel-de-Ville",44.9296094,2.4456861999999546,+33 4 71 48 25 50,De 16 à 35 €,Cuisine du marché,Néobistrot,Nourritures mondaines
+Fado a Mesa ,Restaurant,21000,"83, rue Jean-Jacques-Rousseau",47.32371089999999,5.044704799999977,+33 3 80 63 10 73,Moins de 15 €,Café / Coffee Shop,Sandwichs / Bagels,Planches / Assiettes froides
+Le Panier de Crabes ,Restaurant,17000,"9, rue de la Fourche",46.1577124,-1.1490294999999833,+ 33 9 53 56 59 97,Moins de 15 €,Poissons et fruits de mer,Planches / Assiettes froides,
+Le Relais des Salines,Restaurant,17370,Port des Salines,45.8613534,-1.2296556999999666,+33 5 46 75 82 42,De 36 à 50 €,Poissons et fruits de mer,,
+Quilles et Papilles,Restaurant,24610,"41, rue Fénelon",44.94774470000001,0.057646599999998216,+33 5 53 82 50 70,Moins de 15 €,Bistrot,Bar à vins / Cave à manger,
+Chez Bruno,Restaurant,21000,"80, rue Jean-Jacques-Rousseau",47.3230116,5.044261499999948,+33 3 80 66 12 33,De 16 à 35 €,Planches / Assiettes froides,Bar à vins / Cave à manger,
+Sauvage,Restaurant,75006,"55, rue du Cherche-Midi",48.8486142,2.3250676000000112,+ 33 1 45 48 86 79,De 36 à 50 €,Néobistrot,Bar à vins / Cave à manger,
+Yaya,Restaurant,93400,"7 bis, rue Frida Kahlo",48.9132992,2.3289493,+ 33 1 44 04 27 65,De 16 à 35 €,Café / Coffee Shop,Grec,Méditerranéen
+Le Rocher de la Vierge,Restaurant,31000,"4, pl. de Damloup",43.6054709,1.4533054999999422,+33 5 34 30 80 38,De 16 à 35 €,Bistrot,Bar à vins / Cave à manger,
+Chez Mon Jules ,Restaurant,26220,"5, rue Etienne-de-Vesc",44.5213162,5.150672799999938,+33 4 75 04 20 74,De 36 à 50 €,Bistrot,Cuisine du marché,Bar à vins / Cave à manger
+Esstra,Restaurant,06000,"22, av. du Marechal Foch",43.7037862,7.269924400000036,+33 4 93 54 06 45 ,De 16 à 35 €,Biocool,Méditerranéen,Terroir
+Ar Piliguet,Restaurant,29242,Pl. de l'Eglise,48.45741899999999,-5.096518999999944,+ 33 2 98 03 14 64,De 16 à 35 €,Biocool,Cuisine du marché,Terroir
+Abri Soba,Restaurant,75009,"10, rue Saulnier",48.8749761,2.3445619999999963,+33 1 45 23 51 68,De 16 à 35 €,Asiatique,Japonais,
+Garopapilles,Restaurant,33000,"62, rue Abbé-de-l’Epée",44.8419374,-0.58263850000003,+33 9 72 45 55 36,Plus de 51 €,Cuisine d'auteur,Néobistrot,
+The Meat Pack,Restaurant,33000,"8, rue-du-Chai-des-Farines",44.83965999999999,-0.5692546999999877,+33 9 72 62 12 69,De 36 à 50 €,Néobistrot,Viandes / Grillades,
+Les Passionnés ,Restaurant,31000,"31 bis, allée de Brienne",43.6061007,1.4300491000000193,+33 5 61 13 99 06,De 16 à 35 €,Cuisine du marché,Néobistrot,Bar à vins / Cave à manger
+Au Bistrot,Restaurant,33800,"61, pl. des Capucins",44.8313624,-0.5674175999999989,,De 36 à 50 €,Bistrot,Cuisine du marché,Terroir
+Caffé Cuisine ,Restaurant,33420,"7, pl. du Marché",44.8310493,-0.18640189999996437,+33 5 57 24 19 67,De 36 à 50 €,Cuisine du marché,Néobistrot,
+L’Equilibre,Restaurant,31130,"10, pl. de la Libération",43.6100711,1.4972731000000294,+33 5 61 45 70 43,De 36 à 50 €,Cuisine d'auteur,Cuisine du marché,Néobistrot
+Le Coquillage,Restaurant,35350,Château Richeux,48.64258700000001,-1.8711530000000494,+33 2 99 89 25 25,Plus de 51 €,Cuisine d'auteur,Poissons et fruits de mer,
+Flocons Village,Restaurant,74120,"75, rue Saint-François",45.8578318,6.618531800000028,+33 4 50 78 35 01,De 36 à 50 €,Néobistrot,,
+Anga,Restaurant,34000,"19, rue du Palais-des-Guilhem",43.6114559,3.875155599999971,+33 4 67 60 61 65,De 16 à 35 €,Cuisine du marché,Néobistrot,Table d'hôte
+Philibert ,Restaurant,31000,"5, rue Riguepels",43.6003246,1.449672899999996,+33 5 61 25 20 41,De 16 à 35 €,Bistrot,Viandes / Grillades,Bar à vins / Cave à manger
+Solides,Restaurant,31000,"38, rue des Polinaires",43.5978985,1.4438876000000391,+33 5 61 53 34 88,De 36 à 50 €,Cuisine d'auteur,Cuisine du marché,Néobistrot
+La Cantine des Ateliers du Vent,Restaurant,35000,"59, rue Alexandre-Duval",48.1033987,-1.6970896999999923,+33 2 30 96 42 77 ,De 16 à 35 €,Cuisine du marché,Néobistrot,
+Motchiya,Restaurant,31000,"10, rue Palaprat",43.60493109999999,1.452381100000025,+33 9 54 70 47 39,De 16 à 35 €,Asiatique,Japonais,Cuisine du marché
+La Petite Ecole,Restaurant,43360,Rilhac,45.358153,3.350545,+33 4 71 76 97 43,De 36 à 50 €,Cuisine d'auteur,Néobistrot,
+M. Cyclofood,Restaurant,31000,"6, rue des Salenques",43.60763,1.4391319999999723,,Moins de 15 €,Asiatique,Vietnamien,Salon de thé / Pâtisserie
+Jeu de Quilles,Restaurant,46160,"7, bd du Tour-de-Ville",44.48624119999999,1.843615199999931,+33 5 65 33 71 40,De 16 à 35 €,Biocool,Cuisine d'auteur,Cuisine du marché
+Le Rousseau,Restaurant,38000,"3, rue Jean-Jacques-Rousseau",45.1910708,5.729924399999959,+33 4 76 14 86 75,De 16 à 35 €,Cuisine du marché,Néobistrot,
+L’Amélyss,Restaurant,38000,"3, bd Gambetta",45.1915619,5.7212204999999585,+33 4 76 42 35 84,De 16 à 35 €,Néobistrot,,
+Tombé du Ciel,Restaurant,38000,"14, rue Arago",45.1955548,5.713502100000028,,De 16 à 35 €,Bistrot,,
+LA BA,Restaurant,12210,"4, rue Bardière",44.6839238,2.846636100000069,+33 5 65 51 68 30,De 16 à 35 €,Cuisine du marché,Néobistrot,Bar à vins / Cave à manger
+Auberge Le Prieuré,Restaurant,47310,Le Bourg,44.141103,0.60894200000007,+33 5 53 47 59 55,De 36 à 50 €,Cuisine d'auteur,Cuisine du marché,
+Le Mango Tree,Restaurant,40150,Plage du Parc-Rosny,43.6617001,-1.4284628999999995,,Moins de 15 €,Biocool,Végétarien,
+Les 400 Coups,Restaurant,41000,"42, rue Saint-Lubin",47.5848808,1.3316618000000062,,De 16 à 35 €,Bar à vins / Cave à manger,,
+L'Epicerie au Bon Manger,Restaurant,51100,"7, rue Courmeaux",49.2569235,4.035158300000035,+33 3 26 03 45 29,De 16 à 35 €,Terroir,Bar à vins / Cave à manger,
+Chez Rémi ,Restaurant,49100,"5, rue des Deux-Haies",47.4718263,-0.5529148000000532,+33 2 41 24 95 44,De 16 à 35 €,Bistrot,Cuisine du marché,
+La Route du Sel,Restaurant,49350,"55, quai des Mariniers",47.3705134,-0.2646491000000424,+33 2 41 45 75 31,De 36 à 50 €,Cuisine du marché,,
+L'Echanson,Restaurant,54000,"9, rue de la Primatiale",48.69054209999999,6.185178599999972,+33 3 83 35 51 58,Moins de 15 €,Casse-croûte,Bar à vins / Cave à manger,
+Le Poulpe,Restaurant,56100,"29, av. de la Perrière",47.7341545,-3.365600099999938,+33 2 97 50 08 24,De 16 à 35 €,Bistrot,Cuisine du marché,Terroir
+Kabuki,Restaurant,56400,"32, rue Barré",47.6675805,-2.9854250999999294,+33 2 97 59 39 92,De 16 à 35 €,Asiatique,Japonais,Sushis
+Casa Ricci,Restaurant,57000,"16, rue Sainte-Marie",49.1190025,6.1719719,+ 33 6 15 94 87 08,Moins de 15 €,Italien,,
+Cafe de la Cale,Restaurant,56360,Quai Guerveur,47.37311140000001,-3.2194809999999734,+33 2 97 31 65 74,De 36 à 50 €,Poissons et fruits de mer,,
+Le Poinçon,Restaurant,64210,"94, rue du Comté-de Swiecinski ",43.4252136,-1.6101915000000417,+33 5 59 26 57 44,De 16 à 35 €,Café / Coffee Shop,Cuisine d'auteur,Cuisine du marché
+Art’Zain,Restaurant,64780,Le Bourg,43.2569885,-1.2324899999999843,+33 5 59 37 23 83,De 16 à 35 €,Cuisine d'auteur,Cuisine du marché,Néobistrot
+La Boëte,Restaurant,64500,"3, rue Jean-Bague ",43.3888288,-1.661088100000029,+33 5 59 22 54 76,De 16 à 35 €,Néobistrot,Poissons et fruits de mer,
+Lou Esberit ,Restaurant,64000,"8, rue Adoue",43.294441,-0.37205549999998766,+33 9 83 97 58 58,De 16 à 35 €,Cuisine d'auteur,Néobistrot,
+Le Présentoir,Restaurant,59800,"24, rue Pierre-Mauroy",50.6366366,3.065124800000035,,De 16 à 35 €,Bistrot,Bar à vins / Cave à manger,
+Les Apothicaires,Restaurant,69006,"23, rue de Sèze",45.7681384,4.845551399999977,+33 4 26 02 25 09,De 36 à 50 €,Cuisine d'auteur,Néobistrot,
+Rodolphe,Restaurant,76000,"35, rue Percière",49.4437042,1.092262900000037,+33 02 35 73 32 58,De 36 à 50 €,Cuisine d'auteur,Terroir,Poissons et fruits de mer
+Citizen Coffee,Restaurant,76000,"4, rue de l'Ecureuil",49.4435095,1.0942814999999655,+33 2 35 71 49 42,Moins de 15 €,Café / Coffee Shop,Snack / Tartes / Salades / Soupes / Bols,
+Le Cinquième Péché,Restaurant,66190,"16, rue de la Fraternité",42.5273569,3.0833516000000145,+33 4 68 98 09 76,De 36 à 50 €,Cuisine d'auteur,Cuisine du marché,
+Le Snake / La Cantine du Fort,Restaurant,76620,"33, rue du 329e-Régiment-d'Infanterie",49.504088,0.12072000000000571,+33 2 35 19 53 33,Moins de 15 €,Biocool,Cuisine du marché,Végétarien
+Le Zaza Club,Restaurant,66440,Plage sud,42.75821329999999,3.0377147000000377,+33 4 68 59 21 45,De 36 à 50 €,Poissons et fruits de mer,,
+La Fabriquerie,Restaurant,13007,"71, av. de la Corse",43.2886583,5.360545699999989,,Moins de 15 €,Biocool,Cuisine du marché,Snack / Tartes / Salades / Soupes / Bols
+La Petite Maison ,Restaurant,84160,Place de l'Étang,43.773916,5.438631999999984,+33 4 90 68 21 99,Plus de 51 €,Cuisine d'auteur,Terroir,
+Santa Rosalia,Restaurant,83000,"36, rue Charles-Poncy ",43.1227949,5.932003699999996,+33 4 94 64 11 58,De 16 à 35 €,Biocool,Mexicain,
+Le Desjeuneur,Restaurant,69001,"3, rue des Pierres-Plantées",45.7736139,4.832334899999978,Pas de téléphone. ,De 16 à 35 €,Café / Coffee Shop,Cuisine du marché,
+La Bergerie ,Restaurant,84480,Les Claparèdes,43.8221138,5.318585799999937,+33 4 90 75 89 78,De 36 à 50 €,Néobistrot,,
+Bonne Aventure,Restaurant,93400,"59, rue des Rosiers",48.9042407,2.3390165000000707,+33 1 49 48 09 69,De 16 à 35 €,Bistrot,Bar à vins / Cave à manger,
+Racines des Prés,Restaurant,75007,"1, rue de Gribeauval",48.8561495,2.327197,+33 1 45 48 14 16,De 36 à 50 €,Cuisine d'auteur,Néobistrot,
+Ibrik Kitchen,Restaurant,75002,"9, rue de Mulhouse",48.8686809,2.3465059999999767,+33 1 70 69 42 50,De 36 à 50 €,Roumain,Balkanique,
+La Cave de Lise et Bertrand Jousset ,Restaurant,37270,"36, rue des Bouvineries",47.3921272,0.8753365000000031,+33 2 47 50 70 33 ,De 16 à 35 €,Bar à vins / Cave à manger,,
+Le Daily Syrien ,Restaurant,75010,"55, rue du Faubourg Saint-Denis",48.8718949,2.3536205999999993,+ 33 9 54 11 75 35,Moins de 15 €,Café / Coffee Shop,Syrien,
+Ré Ostrea / QG de la Mer,Restaurant,17410,Chemin les Salines,46.2016725,-1.392818600000055,+33 6 63 91 80 19,Moins de 15 €,Guinguette,Poissons et fruits de mer,
+Une Fille et des Quilles,Restaurant,49100,"66, rue Baudrière",47.4716751,-0.5553423000000066,+33 2 41 72 23 86,De 16 à 35 €,Cuisine du marché,Bar à vins / Cave à manger,
+Sapna,Restaurant,69001,"7, rue de la Martinière",45.7682823,4.829005400000028,+33 9 81 77 27 25,De 16 à 35 €,Asiatique,Japonais,Néobistrot
+L'Etabli,Restaurant,69002,"22, rue des Remparts-d'Ainay",45.7527838,4.830228300000044,+33 4 78 37 49 83,De 36 à 50 €,Néobistrot,,
+Bricktop,Restaurant,75010,"153, quai de Valmy",48.8780483,2.365559800000028,+33 9 67 44 60 71,Moins de 15 €,Italien,Pizzas,
+Tripletta,Restaurant,75020,"88, bd de Belleville",48.8702626,2.3794291000000385,+ 33 1 42 54 72 80,De 16 à 35 €,Italien,Pizzas,
+Mr Zhao,Restaurant,75002,"37, rue des Jeûneurs",48.8696583,2.3435978999999634,Tél. : +33 1 73 74 94 05,Moins de 15 €,Chinois,,
+Tripletta,Restaurant,33000,"30, pl. Meynard",44.83471919999999,-0.5667129999999361,+33 5 57 04 14 40,De 16 à 35 €,Pizzas,,
+La Maison du Caviar,Restaurant,75008,"21, rue Quentin-Bauchart",48.87057970000001,2.301603,+33 1 47 23 53 43,Plus de 51 €,Nourritures mondaines,,
+Kuro Goma,Restaurant,69007,"15, rue de Bonald",45.7531572,4.840685200000053,,De 16 à 35 €,Asiatique,Japonais,Tapas
+Carøe,Restaurant,64200,"51, rue Gambetta ",43.47914189999999,-1.564233300000069,+ 33 9 83 34 54 60,De 16 à 35 €,Poissons et fruits de mer,,
+Mimi,Restaurant,75006,"105, rue du Cherche-Midi",48.8463326,2.3207016000000067,+33 1 83 89 52 85,De 16 à 35 €,Italien,Bar à vins / Cave à manger,
+Trois Fois Plus de Piment Beaubourg,Restaurant,75003,"184, rue Saint-Martin",48.8628031,2.3524353999999903,+33 6 52 66 75 31,Moins de 15 €,Asiatique,Chinois,
+Lao Siam ,Restaurant,75019,"49, rue de Belleville",48.8731455,2.3809340000000248,+33 1 40 40 09 68,De 16 à 35 €,Asiatique,Laotien,Thaïlandais
+La Lupita,Restaurant,06300,"9, rue de la Préfecture",43.6969068,7.274421599999982,+33 4 83 93 96 60,De 16 à 35 €,Mexicain,,
+Jaja,Restaurant,59800,36 Rue Saint-André,50.6440932,3.0585837999999512,+33 3 20 51 83 73,De 16 à 35 €,Bistrot,Bar à vins / Cave à manger,
+Vantre,Restaurant,75011,"19, rue de la Fontaine-au-Roi",48.8685434,2.3702362999999878,+33 1 48 06 16 96,De 36 à 50 €,Bistrot,Néobistrot,
+L'Avant-Comptoir du Marché,Restaurant,75006,"14, rue Lobineau",48.851775,2.335847400000034,+33 1 44 27 07 97,De 16 à 35 €,Sud-Ouest,Terroir,Planches / Assiettes froides
+Birdie Num Num,Restaurant,75018,"87, rue Lamarck",48.8903015,2.3355179000000135,+33 1 42 58 07 29,Moins de 15 €,Café / Coffee Shop,Sandwichs / Bagels,Lèche-doigts
+Atelier Auger,Restaurant,75020,"5, rue Auger",48.8510629,2.3991708999999446,+33 9 87 59 88 65,De 16 à 35 €,Café / Coffee Shop,Snack / Tartes / Salades / Soupes / Bols,Viandes / Grillades
+KGB (Kitchen Galerie Bis),Restaurant,75006,"25, rue des Grands-Augustins",48.8537624,2.3404342000000042,+33 1 46 33 00 85,Plus de 51 €,Cuisine d'auteur,Néobistrot,
+Ô Divin,Restaurant,75017,"66, rue Guy Môquet",48.8925985,2.326323699999989,+33 1 45 80 40 44,De 36 à 50 €,Bistrot,Bar à vins / Cave à manger,
+Itsas Zaldi,Restaurant,64700,"9, rue des Figuiers",43.372049,-1.7747885999999653,+33 9 83 03 40 79,De 16 à 35 €,Biocool,Bistrot,Cuisine du marché
+La Poule au Pot,Restaurant,75001,"9, rue Vauvilliers",48.861752,2.343230500000004,+33 1 42 36 32 96,Plus de 51 €,Bistrot,Néobistrot,
+Gaudina,Restaurant,13200,13 Rue de l'Hôtel de ville,43.677734,4.627875099999983, +33 4 88 65 29 48,De 36 à 50 €,Cuisine du marché,Viandes / Grillades,
+La Bouitte,Restaurant,73440,Saint-Marcel,45.37057799999999,6.511684000000059,+33 4 79 08 96 77,Plus de 51 €,Cuisine d'auteur,,
+Le Petit Pan,Restaurant,75015,"18, rue Rosenwald",48.83321919999999,2.3057304999999815,+33 1 42 50 04 04,De 16 à 35 €,Bistrot,Cuisine du marché,
+Le Grand Pan,Restaurant,75015,"20, rue Rosenwald",48.8330872,2.3057430999999724,+33 1 42 50 02 50,De 36 à 50 €,Bistrot,Cuisine du marché,
+Neva Cuisine,Restaurant,75008,"2, rue de Berne",48.8801725,2.3240223,+33 1 45 22 18 91 ,De 16 à 35 €,Néobistrot,,
+Shanghaï Kitchen ,Restaurant,13001,"14, cours Jean-Ballard",43.2932428,5.374249500000019,+ 33 9 54 68 60 62,De 16 à 35 €,Asiatique,Chinois,
+Le Charabia,Restaurant,33000,"26, rue du Maréchal Joffre",44.83588659999999,-0.5784327999999732,+33 5 56 44 41 74,De 16 à 35 €,Bistrot,Café / Coffee Shop,
+CAM,Restaurant,75003,"55, rue au Maire",48.86488629999999,2.3547722000000704,,De 16 à 35 €,Chinois,Cuisine d'auteur,
+Ippudo,Restaurant,75001,"74-76, rue Jean-Jacques-Rousseau",48.8645489,2.3446456000000353,+33 1 42 86 09 85,De 16 à 35 €,Japonais,,
+Minh Chau,Restaurant,75004,"10, rue de la Verrerie",48.857285,2.3552393999999595,+33 1 42 71 13 30 ,Moins de 15 €,Vietnamien,,
+Urfa Dürüm ,Restaurant,75010,"58, rue du Faubourg-Saint-Denis",48.8723772,2.354262800000015,+33 1 48 24 12 84,Moins de 15 €,Lèche-doigts,Kurde,
+Fritto,Restaurant,34200,"11, rue André-Portes",43.4019611,3.696027500000014,+33 4 67 46 98 01,Moins de 15 €,Poissons et fruits de mer,Lèche-doigts,
+La Fleur au Fusil,Restaurant,33590,"8, cours Georges-Mandel",45.43098,-1.0347355999999763,+33 5 56 09 98 11,De 36 à 50 €,Néobistrot,Terroir,
+Pavillon aux Pivoines,Restaurant,75020,"21, rue des Couronnes",48.8697767,2.3824869000000035,+33 1 43 64 89 79,De 16 à 35 €,Asiatique,Chinois,
+Berty,Restaurant,75013,"124, bd. Vincent Auriol  ",48.8333041,2.3624293999999963,+33 9 80 72 16 46,De 36 à 50 €,Cuisine d'auteur,Cuisine du marché,Néobistrot
+La Vie en Rouge,Restaurant,61400,"31, rue Sainte-Croix",48.5199574,0.5475386000000526,,De 16 à 35 €,Casse-croûte,Planches / Assiettes froides,Bar à vins / Cave à manger
+Chez Magda,Restaurant,75019,La Rotonde Stalingrad,48.8835881,2.3696886000000177,,Moins de 15 €,Végétarien,Lèche-doigts,Géorgien
+Jaja,Restaurant,75004,3 Rue Sainte-Croix de la Bretonnerie,48.85762769999999,2.3573380999999927,+33 1 42 74 71 52,De 36 à 50 €,Cuisine du marché,,
+A la Piscine,Restaurant,69007,"8, quai Claude-Bernard",45.7530265,4.837311199999931,+33 4 37 66 08 40,De 16 à 35 €,Néobistrot,Planches / Assiettes froides,
+Belle Maison,Restaurant,75009,"4, rue de Navarin",48.8795864,2.339562800000067,+33 1 42 81 11 00,De 36 à 50 €,Néobistrot,Poissons et fruits de mer,
+Tempilenti,Restaurant,75011,"13, rue Gerbier",48.8587465,2.3859692999999425,+ 33 9 81 01 81 10,De 16 à 35 €,Italien,,
+Café Noisette ,Restaurant,75015,"74, rue Olivier-de-Serres",48.8335219,2.2944658000000118,+33 1 45 35 86 21,De 16 à 35 €,Bistrot,Cuisine du marché,Tapas
+Mulko,Restaurant,75010,"29, rue d’Enghien",48.872003,2.3505216999999448,+ 33 9 50 94 56 10,De 16 à 35 €,Méditerranéen,Lèche-doigts,Israélien
+Le Trois Quarts,Restaurant,13005,"139, boulevard Chave",43.2956516,5.395007999999962,+33 4 91 92 96 16,De 16 à 35 €,Café / Coffee Shop,Néobistrot,Bar à vins / Cave à manger
+Le Grand Bain,Restaurant,75020,"14, rue Dénoyez",48.8716512,2.3785662999999886,+33 9 83 02 72 02,De 16 à 35 €,Cuisine d'auteur,Cuisine du marché,Néobistrot
+Le Bistrot du Potager,Restaurant,69007,"83, rue de Gerland",45.737117,4.83981730000005,+33 4 37 70 36 95,De 16 à 35 €,Bistrot,,
+Doppio,Restaurant,84220,Quartier Pied-Rousset-Sud,43.858,5.241179999999986,+33 4 90 72 44 57,De 16 à 35 €,Pizzas,,
+Circus Bakery,Restaurant,75005,"63, rue Galande",48.8516784,2.3466548000000103,,Moins de 15 €,Pizzas,Sandwichs / Bagels,Lèche-doigts
+Le Verbalon,Restaurant,75013,"198 bis, rue de Tolbiac",48.8258798,2.348772199999985,+33 1 42 46 63 14,De 16 à 35 €,Néobistrot,,
+Claire et Hugo,Restaurant,10300 ,"77, av. du Général-Gallieni",48.8,2.35,+33 9 73 14 18 69,De 16 à 35 €,Néobistrot,,
+Bloempot,Restaurant,59800,"22, rue des Bouchers",50.6380896,3.058236999999963,Pas de téléphone. ,De 36 à 50 €,Cuisine d'auteur,Néobistrot,Terroir
+Vivant 2,Restaurant,75010,"43, rue des Petites-Écuries",48.8738436,2.3497837,+33 9 67 49 96 26,De 36 à 50 €,Cuisine d'auteur,Néobistrot,
+Galerna,Restaurant,75020,"7, rue du Cher",48.8645176,2.4000191000000086,+33 9 81 29 27 12,De 16 à 35 €,Bistrot,Tapas,Basque
+Le Garde-Robe,Restaurant,75001,"41, rue de l'Arbre-Sec",48.8610415,2.3424049000000196,+ 33 1 49 26 90 60,De 16 à 35 €,Cuisine du marché,Bar à vins / Cave à manger,
+Goustut,Restaurant,40130,undefined Quai de la Pêcherie,43.6526592,-1.432131600000048,+33 5 58 42 18 38,De 36 à 50 €,Cuisine d'auteur,Néobistrot,Poissons et fruits de mer
+Le Café du Musée ,Restaurant,44000,"10, rue Georges-Clemenceau",47.21953449999999,-1.5474902999999358,+33 2 51 12 93 09,De 16 à 35 €,Café / Coffee Shop,Néobistrot,
+Suave,Restaurant,75013,"20, rue de la Providence",48.8260187,2.347776100000033,+33 1 45 89 99 27,De 16 à 35 €,Asiatique,Vietnamien,
+Itacoa,Restaurant,75002,"185, rue Saint-Denis",48.86603419999999,2.350517800000034,+33 9 50 48 35 78,De 16 à 35 €,Café / Coffee Shop,Tapas,Néobistrot
+Shouk,Restaurant,75010,"59, rue de Lancry",48.87213029999999,2.3626646000000164,+33 9 87 57 87 68,De 16 à 35 €,Lèche-doigts,Israélien,
+Magnà,Restaurant,75009,"48, rue Notre Dame de Lorette",48.8795918,2.3362627000000202,+33 1 44 63 89 09,Moins de 15 €,Italien,Pizzas,Lèche-doigts
+Unico,Restaurant,75007,"10, rue Amélie",48.8589773,2.307418699999971,+33 1 45 51 83 65,De 36 à 50 €,Argentin,Bistrot,Viandes / Grillades
+Izakaya Joyi ,Restaurant,44000,"4, rue de Colmar",47.21208559999999,-1.546455499999979,+33 2 28 29 35 71,De 16 à 35 €,Japonais,Sushis,
+RAMEN YA,Restaurant,44000,"26, rue de la Fosse",47.213006,-1.5592619999999897,Pas de téléphone,Moins de 15 €,Japonais,,
+Grillé,Restaurant,75002,"15, rue Saint-Augustin",48.8687188,2.3365086999999676,+33 1 42 96 10 64,Moins de 15 €,Kebabs,Sandwichs / Bagels,Lèche-doigts
+Otium,Restaurant,75009,"56, rue de la Rochefoucauld",48.88019389999999,2.336201699999947,+33 1 72 38 86 81,Moins de 15 €,Biocool,Snack / Tartes / Salades / Soupes / Bols,Végétarien
+Atelier Mala,Restaurant,75009,"56, rue Notre Dame de Lorette",48.8799791,2.3361181000000215,+33 1 40 34 10 37,Moins de 15 €,Chinois,,
