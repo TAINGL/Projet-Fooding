@@ -6,7 +6,7 @@ Création d'une application web pour géolocaliser les restaurants et fournir le
 Utilisation de : Scrapping, Flask et SQLite 
 
 ## Utilisation de l'application
-Installer avant `SQLite` sur votre ordinateur avant d'utiliser l'application.
+Installer avant **SQLite** sur votre ordinateur avant d'utiliser l'application.
 
 1. Télécharger le GitHub repository
 ```bash
